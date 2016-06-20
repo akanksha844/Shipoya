@@ -1,0 +1,3018 @@
+Guntur&Vijayawada&87433.0&0.0&
+Hyderabad South&Guntur&104347.0&0.0&
+Hyderabad South&Hyderabad North&47092.0&0.0&
+Hyderabad South&Kurnool&58662.0&0.0&
+Vijayawada&Guntur&2829.0&0.0&
+Chennai&Guntur&80746.0&0.0&
+Hyderabad North&Hyderabad South&5809.0&0.0&
+Guntur&Vijayawada&30255.5&23370.5&
+Vijayawada&Hyderabad South&85170.0&0.0&
+Hyderabad South&Hyderabad North&107510.0&0.0&
+Hyderabad South&Chennai&130814.0&0.0&
+Rajahmundry&Hyderabad South&137407.0&0.0&
+Hyderabad South&Vijayawada&238.0&226.0&
+Hyderabad North&Hyderabad South&721.0&0.0&
+Vijayawada&Hyderabad South&231.5&117.5&
+Hyderabad South&Guntur&74974.0&0.0&
+Guntur&Vijayawada&2029.0&0.0&
+Rajahmundry&Hyderabad South&137209.0&0.0&
+Vijayawada&Guntur&84914.0&0.0&
+Guntur&Hyderabad North&67611.0&0.0&
+Hyderabad South&Hyderabad North&4422.75&11144.4025159&
+Hyderabad North&Hyderabad South&174.375&204.627061688&
+Guntur&Vijayawada&1670.0&0.0&
+Hyderabad South&Guntur&68258.0&0.0&
+Thane&Pune&33595.6842105&110960.607037&
+Pune&Thane&22447.7&66532.506371&
+Vijayawada&Guntur&36261.0&0.0&
+Muzaffarnagar&Aligarh&45488.0&0.0&
+Aligarh&Meerut&2111.0&0.0&
+Warangal&Aligarh&258341.0&0.0&
+Kurnool&Salem&147905.0&0.0&
+Hyderabad South&Kurnool&112081.0&0.0&
+Aligarh&Hyderabad South&347059.0&0.0&
+Meerut&Muzaffarnagar&29393.0&21754.0&
+Salem&Gurgaon&919726.0&0.0&
+Guntur&Warangal&153398.0&0.0&
+Muzaffarnagar&Meerut&4614.0&0.0&
+Kanpur&Warangal&132843.0&0.0&
+Kanpur&Moradabad&163132.0&0.0&
+Moradabad&Guntur&947853.0&0.0&
+Warangal&Kanpur&137935.0&0.0&
+Rajahmundry&Vijayawada&155.0&0.0&
+Hyderabad North&Hyderabad South&23115.0&20313.0&
+Salem&Bangalore&156118.0&0.0&
+Bangalore&Hyderabad North&509857.0&0.0&
+Rajahmundry&Guntur&272.0&150.0&
+Rajahmundry&Salem&154195.0&0.0&
+Sholapur&Chennai&688521.0&0.0&
+Hyderabad South&Guntur&70388.0&0.0&
+Guntur&Rajahmundry&122.5&55.5&
+Vijayawada&Sholapur&406797.0&0.0&
+Guntur&Vijayawada&4552.0&0.0&
+Vijayawada&Rajahmundry&407.0&0.0&
+Hyderabad South&Hyderabad North&3110.0&0.0&
+Sholapur&Hyderabad South&666828.0&0.0&
+Hyderabad North&Ahmednagar&82567.0&0.0&
+Vapi/Ankleshwar&Nashik&23015.0&0.0&
+Hyderabad South&Hyderabad North&2160.0&0.0&
+Nashik&Sholapur&331284.0&0.0&
+Ahmednagar&Vapi/Ankleshwar&48910.0&0.0&
+Vadodara&Thane&477200.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Ahmedabad&481553.0&0.0&
+Ahmedabad&Vadodara&13505.0&0.0&
+Sholapur&Thane&92049.0&0.0&
+Chennai&Hyderabad North&149423.0&0.0&
+Hyderabad North&Sholapur&874342.0&0.0&
+Rajahmundry&Vijayawada&51664.0&0.0&
+Kanpur&Warangal&227693.0&0.0&
+Vijayawada&Guntur&10361.0&0.0&
+Guntur&Salem&95779.0&0.0&
+Warangal&Visakhapatnam, Kakinada&165208.0&0.0&
+Salem&Guntur&325128.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&6928.28571429&16445.2138214&
+Rajahmundry&Visakhapatnam, Kakinada&175.333333333&105.113695059&
+Kota&Jalna&655722.0&0.0&
+Kota&Wazirpur&43809.0&0.0&
+Nanded&Hyderabad North&159581.0&0.0&
+Alwar&Wazirpur&19276.0&0.0&
+Hyderabad North&Indore&64149.0&0.0&
+Jhalawar&Indore&119.0&30.0&
+Kota&Alwar&10069.75&17360.5001854&
+Jhalawar&Kota&52634.0&0.0&
+Gurgaon&Alwar&16563.0&0.0&
+Indore&Burhanpur&88260.0&0.0&
+Hyderabad North&Nanded&169036.0&0.0&
+Wazirpur&Kota&54519.0&0.0&
+Burhanpur&Nanded&80704.0&0.0&
+Indore&Jhalawar&181.5&29.5&
+Ujjain&Kota&84.25&31.1879383737&
+Kota&Ujjain&272.5&36.8544434227&
+Alwar&Kota&303.5&16.8300326797&
+Kota&Indore&3836.0&0.0&
+Ujjain&Jhalawar&3821.0&0.0&
+Hyderabad South&Nanded&76516.0&0.0&
+Burhanpur&Hyderabad South&879.0&0.0&
+Wazirpur&Gurgaon&360.0&0.0&
+Indore&Ujjain&3505.0&0.0&
+Nanded&Kota&160168.0&0.0&
+Hyderabad South&Hyderabad North&1165.0&0.0&
+Nanded&Burhanpur&8460.0&0.0&
+Faridabad&Indore&1114207.0&0.0&
+Jhalawar&Indore&8368.0&0.0&
+Kota&Faridabad&43660.0&0.0&
+Kota&Alwar&210.777777778&119.069333469&
+Alwar&Kota&3633.77777778&9882.32480271&
+Ujjain&Jhalawar&25052.0&0.0&
+Indore&Ujjain&3280.5&19.5&
+Indore&Kota&43456.0&0.0&
+Burhanpur&Indore&45618.0&0.0&
+Nanded&Burhanpur&85650.0&0.0&
+Agra&Noida&47212.0&0.0&
+Noida&Ghaziabad&44028.0&0.0&
+Gwalior&Agra&16197.0&0.0&
+Wazirpur&Agra&198883.0&0.0&
+Jhansi&Gwalior&76280.0&0.0&
+Agra&Warangal&232804.0&0.0&
+Ghaziabad&Wazirpur&2342.0&0.0&
+Agra&Gwalior&16455.0&0.0&
+Jhansi&Agra&8893.0&0.0&
+Gwalior&Hyderabad South&396212.0&0.0&
+Warangal&Agra&893724.0&0.0&
+Hyderabad South&Jhansi&332776.0&0.0&
+Vijayawada&Warangal&191211.0&0.0&
+Kanpur&Warangal&196008.0&0.0&
+Warangal&Kanpur&241138.0&0.0&
+Warangal&Vijayawada&48070.0&0.0&
+Gurgaon&Wazirpur&118.166666667&65.5576506257&
+Muzaffarnagar&Gurgaon&23444.0&0.0&
+Wazirpur&Agra&23918.0&0.0&
+Wazirpur&Firozabad&44212.0&0.0&
+Agra&Wazirpur&209.0&0.0&
+Wazirpur&Gurgaon&239.5&87.70927355&
+Gurgaon&Roorkee&846.0&0.0&
+Roorkee&Wazirpur&44676.0&0.0&
+Firozabad&Warangal&690067.0&0.0&
+Belgaum&Sholapur&61118.0&0.0&
+Sholapur&Nagpur&69958.0&0.0&
+Panchkula&Karnal&257989.0&0.0&
+Kanpur&Gulburga Gadagh belt&223044.0&0.0&
+Hubli, Dharwad&Dharwad&7484.0&0.0&
+Gulburga Gadagh belt&Hubli, Dharwad&89067.0&0.0&
+Karnal&Samalkha&47670.0&0.0&
+Nagpur&Hyderabad South&831575.0&0.0&
+Agra&Karnal&507.0&0.0&
+Pinjore&Panchkula&363.0&0.0&
+Samalkha&Agra&35354.0&0.0&
+Panipat&Firozabad&43543.0&0.0&
+Dharwad&Belgaum&188140.0&0.0&
+Karnal&Panipat&2390.0&0.0&
+Firozabad&Kanpur&82938.0&0.0&
+Gurgaon&Wazirpur&231.0&90.9560333348&
+Kanpur&Warangal&143377.0&0.0&
+Wazirpur&Agra&23541.0&0.0&
+Roorkee&Muzaffarnagar&5399.0&0.0&
+Warangal&Vijayawada&166980.0&0.0&
+Wazirpur&Firozabad&86485.0&0.0&
+Agra&Wazirpur&362.0&0.0&
+Muzaffarnagar&Wazirpur&147123.0&0.0&
+Wazirpur&Gurgaon&296.0&336.291540185&
+Vijayawada&Warangal&240924.0&0.0&
+Firozabad&Kanpur&129959.0&0.0&
+Agra&Noida&156934.0&0.0&
+Wazirpur&Agra&224077.0&0.0&
+Noida&Jhansi&51184.0&0.0&
+Vijayawada&Warangal&170441.0&0.0&
+Agra&Gwalior&16157.0&0.0&
+Jhansi&Agra&32693.0&27017.0&
+Warangal&Jhansi&169558.5&10687.5&
+Jhansi&Wazirpur&221286.0&0.0&
+Jhansi&Gwalior&993.066666667&3344.0666155&
+Guntur&Vijayawada&2047.0&0.0&
+Gwalior&Hyderabad South&220615.0&0.0&
+Hyderabad South&Warangal&131460.0&0.0&
+Gwalior&Jhansi&426.333333333&227.309676188&
+Sholapur&Bangalore&49040.0&0.0&
+Ujjain&Indore&3052.0&0.0&
+Burhanpur&Mysore&1022906.0&0.0&
+Chitradurg&Bangalore&3478.0&0.0&
+Jalna&Sholapur&76705.0&0.0&
+Indore&Jalna&59280.0&0.0&
+Kota&Alwar&144.5&109.700729259&
+Alwar&Kota&159.8&120.521201454&
+Vijayawada&Warangal&396529.0&0.0&
+Kota&Jhalawar&51170.0&0.0&
+Warangal&Burhanpur&93465.0&0.0&
+Bangalore&Chitradurg&9796.0&0.0&
+Guntur&Vijayawada&28476.0&0.0&
+Noida&Alwar&246234.0&0.0&
+Burhanpur&Ujjain&10265.0&0.0&
+Bangalore&Guntur&57767.0&0.0&
+Jhalawar&Burhanpur&12009.0&0.0&
+Mysore&Bangalore&14966.0&0.0&
+Chennai&Guntur&95581.0&0.0&
+Vijayawada&Hyderabad North&264554.0&0.0&
+Bangalore&Chennai&251236.0&0.0&
+Bangalore&Mysore&11075.0&0.0&
+Pune&Gulburga Gadagh belt&523015.0&0.0&
+Sholapur&Pune&21597.0&0.0&
+Hyderabad North&Sholapur&68201.0&0.0&
+Guntur&Vijayawada&3778.0&0.0&
+Chennai&Bangalore&45404.0&0.0&
+Jhansi&Noida&389144.0&0.0&
+Kurnool&Bangalore&191699.0&0.0&
+Hyderabad North&Kurnool&73867.0&0.0&
+Vijayawada&Bangalore&3058.0&0.0&
+Bangalore&Jhansi&650688.0&0.0&
+Jhansi&Agra&57701.0&0.0&
+Agra&Wazirpur&73240.0&0.0&
+Jhansi&Hyderabad North&155474.0&0.0&
+Bangalore&Guntur&76967.0&0.0&
+Guntur&Vijayawada&4449.0&0.0&
+Jhansi&Gwalior&1408.13888889&7096.90861946&
+Wazirpur&Gwalior&275882.0&0.0&
+Gwalior&Jhansi&381.891891892&1583.10498506&
+Raipur&Dhenkanal&193636.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&2041.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&54797.0&0.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&44588.0&0.0&
+Dhenkanal&Cuttack&5599.0&0.0&
+Durg, Raipur&Raipur&2401.0&0.0&
+Kurnool&Kottayam&625014.0&0.0&
+Hyderabad North&Hyderabad South&23994.5&23034.5&
+Hyderabad South&Kurnool&32508.0&0.0&
+Kochi&Kottayam&51053.0&0.0&
+Palakkad&Kurnool&165807.0&0.0&
+Palakkad&Kochi&206000.0&0.0&
+Kottayam&Palakkad&77994.0&0.0&
+Kurnool&Palakkad&135597.0&0.0&
+Hyderabad South&Hyderabad North&39011.0&0.0&
+Ghaziabad&Agra&43959.0&0.0&
+Panchkula&Ambala&11395.0&0.0&
+Agra&Jhansi&13131.0&0.0&
+Warangal&Gwalior&138365.0&0.0&
+Wazirpur&Ghaziabad&38379.0&0.0&
+Vijayawada&Guntur&39733.0&37313.0&
+Jhansi&Warangal&162724.0&0.0&
+Agra&Gwalior&362.0&0.0&
+Ambala&Karnal&182577.0&0.0&
+Vijayawada&Warangal&133921.0&0.0&
+Pinjore&Panchkula&120.0&0.0&
+Vijayawada&Agra&606279.0&0.0&
+Panipat&Samalkha&1370.0&0.0&
+Samalkha&Agra&167568.0&0.0&
+Warangal&Vijayawada&45450.0&0.0&
+Guntur&Vijayawada&19352.0&17267.0&
+Agra&Vijayawada&428681.0&0.0&
+Karnal&Panipat&2118.0&0.0&
+Jhansi&Wazirpur&133184.0&0.0&
+Gwalior&Jhansi&71318.0&0.0&
+Gwalior&Agra&11383.0&0.0&
+Vijayawada&Guntur&2162.0&0.0&
+Agra&Jhansi&251557.0&0.0&
+Wazirpur&Agra&92649.0&0.0&
+Warangal&Jhansi&261801.0&0.0&
+Jhansi&Warangal&152719.0&0.0&
+Agra&Gwalior&14169.0&0.0&
+Jhansi&Agra&74643.0&0.0&
+Vijayawada&Warangal&266640.0&0.0&
+Warangal&Vijayawada&78714.0&0.0&
+Jhansi&Gwalior&335.5&268.196290056&
+Guntur&Vijayawada&1683.0&0.0&
+Gwalior&Jhansi&8623.28571429&20791.4546232&
+Karnal&Ambala&1134.0&0.0&
+Panipat&Karnal&2309.0&0.0&
+Rohtak&Agra&51088.0&0.0&
+Faridabad&Rohtak&250361.0&0.0&
+Samalkha&Panipat&988.0&0.0&
+Warangal&Agra&623672.0&0.0&
+Panchkula&Faridabad&3964.0&0.0&
+Wazirpur&Panchkula&3098.0&0.0&
+Agra&Hyderabad South&601433.0&0.0&
+Faridabad&Noida&230.0&92.4589999225&
+Firozabad&Warangal&424337.0&0.0&
+Ambala&Panchkula&4910.0&0.0&
+Panchkula&Samalkha&2215.0&0.0&
+Agra&Firozabad&5488.0&0.0&
+Noida&Faridabad&14666.0&20550.649933&
+Noida&Wazirpur&654.0&0.0&
+Roorkee&Muzaffarnagar&5401.0&0.0&
+Warangal&Vijayawada&55298.0&0.0&
+Agra&Gwalior&16140.0&0.0&
+Noida&Kurnool&501663.0&0.0&
+Vijayawada&Warangal&260427.0&0.0&
+Warangal&Noida&486647.0&0.0&
+Jhansi&Warangal&161083.0&0.0&
+Muzaffarnagar&Agra&411475.0&0.0&
+Gwalior&Jhansi&10488.0&0.0&
+Vijayawada&Hyderabad North&610411.0&0.0&
+Guntur&Vijayawada&2343.0&0.0&
+Sholapur&Pune&30190.0&0.0&
+Pune&Chennai&336778.0&0.0&
+Hyderabad North&Sholapur&61104.0&0.0&
+Sholapur&Hyderabad North&146846.0&0.0&
+Vijayawada&Guntur&38389.0&0.0&
+Chitradurg&Bangalore&160012.0&0.0&
+Nashik&Vapi/Ankleshwar&38449.0&0.0&
+Sholapur&Thane&59875.0&0.0&
+Thane&Pune&198.6&146.953870313&
+Vijayawada&Thane&590345.0&0.0&
+Pune&Thane&301.8&162.528028352&
+Nashik&Chitradurg&242948.0&0.0&
+Thane&Nashik&43934.0&0.0&
+Hyderabad North&Sholapur&78126.0&0.0&
+Guntur&Vijayawada&1919.0&0.0&
+Guntur&Hyderabad North&170351.0&0.0&
+Bangalore&Guntur&58300.0&0.0&
+Vapi/Ankleshwar&Nashik&1858.0&0.0&
+Vijayawada&Guntur&38341.5&36301.5&
+Wazirpur&Ghaziabad&145.0&101.911726509&
+Wazirpur&Gwalior&1104820.0&0.0&
+Warangal&Jhansi&177486.0&0.0&
+Warangal&Vijayawada&54237.0&0.0&
+Agra&Gwalior&19188.5&2416.5&
+Jhansi&Agra&5992.5&1500.5&
+Jhansi&Ghaziabad&82652.0&0.0&
+Vijayawada&Warangal&228797.0&0.0&
+Ghaziabad&Wazirpur&11888.5&20314.5612985&
+Guntur&Vijayawada&19350.5&17609.5&
+Gwalior&Warangal&168232.0&0.0&
+Gwalior&Jhansi&7567.0&0.0&
+Gurgaon&Wazirpur&300.0&0.0&
+Hyderabad North&Kurnool&95345.0&0.0&
+Gurgaon&Noida&127.5&42.8903641082&
+Wazirpur&Noida&140.3&82.7563290631&
+Agra&Gwalior&77759.0&0.0&
+Vijayawada&Guntur&39496.0&0.0&
+Noida&Agra&72531.0&0.0&
+Kurnool&Bangalore&64551.0&0.0&
+Guntur&Warangal&60881.0&0.0&
+Jhansi&Hyderabad North&149063.0&0.0&
+Noida&Gurgaon&161.666666667&58.257093035&
+Bangalore&Guntur&267011.0&0.0&
+Guntur&Vijayawada&158275.0&0.0&
+Noida&Wazirpur&135.222222222&84.5271524788&
+Gwalior&Jhansi&7913.0&0.0&
+Agra&Jhansi&3243.0&0.0&
+Gwalior&Agra&14740.0&0.0&
+Jhansi&Agra&648.0&0.0&
+Hyderabad North&Gwalior&133992.0&0.0&
+Agra&Hyderabad South&145352.0&0.0&
+Jhansi&Gurgaon&54827.0&0.0&
+Hyderabad South&Hyderabad North&6612.0&0.0&
+Gwalior&Jhansi&10670.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Cuttack&476010.0&0.0&
+Durg, Rajnandgaon, Raipur&Amravati&71949.0&0.0&
+Raipur&Nagpur&55.0&32.1791858194&
+Pardi&Thane&216986.0&0.0&
+Vapi/Ankleshwar&Pardi&16619.0&0.0&
+Dhule&Pardi&60250.0&0.0&
+Pardi&Vapi/Ankleshwar&1333.0&0.0&
+Nagpur&Raipur&291.0&42.27528829&
+Nashik&Thane&268.0&226.171395185&
+Dhenkanal&Cuttack&37752.0&0.0&
+Cuttack&Dhenkanal&3785.0&0.0&
+Raipur&Durg, Raipur&2413.0&0.0&
+Thane&Nashik&315.25&172.322916352&
+Nagpur&Cuttack&165896.0&0.0&
+Thane&Dhule&77415.0&0.0&
+Durg, Raipur&Durg, Rajnandgaon, Raipur&3297.0&0.0&
+Cuttack&Vapi/Ankleshwar&794099.0&0.0&
+Cuttack&Nagpur&71659.0&0.0&
+Dhule&Nagpur&61620.0&0.0&
+Amravati&Dhule&7015.0&0.0&
+Gulburga Gadagh belt&Hyderabad North&90299.0&0.0&
+Hyderabad North&Hyderabad South&19812.5&19104.5&
+Hyderabad North&Gulburga Gadagh belt&219704.0&0.0&
+Gulburga Gadagh belt&Belgaum&74578.5&25237.5&
+Hyderabad South&Hyderabad North&648.0&425.0&
+Belgaum&Gulburga Gadagh belt&68287.0&9618.0&
+Wazirpur&Noida&306.0&52.0&
+Agra&Noida&242813.0&0.0&
+Hyderabad North&Kurnool&73875.0&0.0&
+Jhansi&Hyderabad North&150269.0&0.0&
+Kurnool&Bangalore&598244.0&0.0&
+Bangalore&Guntur&163568.0&0.0&
+Vijayawada&Wazirpur&653188.0&0.0&
+Guntur&Vijayawada&1755.0&0.0&
+Wazirpur&Gwalior&153986.0&0.0&
+Noida&Wazirpur&14496.6666667&20425.0261091&
+Gwalior&Jhansi&11340.0&0.0&
+Pune&Chitradurg&96461.0&0.0&
+Pune&Hubli, Dharwad&134647.0&0.0&
+Chitradurg&Bangalore&71796.0&0.0&
+Pardi&Vapi/Ankleshwar&2495.0&0.0&
+Hubli, Dharwad&Ahmedabad&499766.0&0.0&
+Vapi/Ankleshwar&Pardi&26444.0&0.0&
+Sholapur&Pune&142431.0&60629.0&
+Hyderabad North&Sholapur&68851.0&0.0&
+Vijayawada&Sholapur&414885.0&0.0&
+Guntur&Vijayawada&1770.0&0.0&
+Bangalore&Guntur&59763.0&0.0&
+Ahmedabad&Vapi/Ankleshwar&54354.0&0.0&
+Thane&Chitradurg&50087.0&0.0&
+Chitradurg&Bangalore&51659.0&0.0&
+Thane&Pune&8585.0&0.0&
+Pune&Thane&19319.0&0.0&
+Hyderabad North&Sholapur&164274.0&0.0&
+Kurnool&Hyderabad North&96038.0&0.0&
+Bangalore&Kurnool&70748.0&0.0&
+Bangalore&Vijayawada&83238.0&0.0&
+Samalkha&Alwar&66616.0&0.0&
+Guntur&Vijayawada&1890.0&0.0&
+Karnal&Panipat&13353.0&0.0&
+Burhanpur&Indore&4243.0&0.0&
+Panipat&Karnal&2197.0&0.0&
+Panchkula&Karnal&55183.0&0.0&
+Alwar&Samalkha&58254.0&0.0&
+Kota&Alwar&7063.0&0.0&
+Panchkula&Pinjore&390.0&0.0&
+Panipat&Samalkha&1144.0&0.0&
+Jhalawar&Kota&9465.0&0.0&
+Vijayawada&Bangalore&200.0&0.0&
+Hyderabad North&Nanded&6524.0&0.0&
+Ujjain&Kota&47924.0&0.0&
+Ujjain&Jhalawar&23353.0&0.0&
+Pinjore&Panchkula&360.0&0.0&
+Alwar&Ujjain&148860.0&0.0&
+Nanded&Hyderabad South&31834.0&0.0&
+Kota&Ujjain&5704.0&0.0&
+Bangalore&Guntur&33685.0&0.0&
+Hyderabad South&Burhanpur&74266.0&0.0&
+Karnal&Panchkula&7377.0&0.0&
+Samalkha&Panipat&1461.0&0.0&
+Indore&Ujjain&47136.0&0.0&
+Vijayawada&Hyderabad South&478394.0&0.0&
+Ujjain&Indore&4272.0&0.0&
+Hyderabad South&Hyderabad North&989.0&0.0&
+Hyderabad North&Burhanpur&55760.0&0.0&
+Hyderabad North&Nanded&80913.0&0.0&
+Gurgaon&Wazirpur&255.0&79.7036176511&
+Indore&Jhalawar&20810.0&0.0&
+Kota&Wazirpur&44053.0&0.0&
+Wazirpur&Gurgaon&186.0&107.241161252&
+Kota&Alwar&3555.0&0.0&
+Ujjain&Kota&49613.0&0.0&
+Alwar&Kota&32323.0&0.0&
+Jhalawar&Ujjain&2551.0&0.0&
+Nanded&Kota&160135.0&0.0&
+Nanded&Hyderabad North&5694.0&0.0&
+Wazirpur&Nanded&919104.0&0.0&
+Burhanpur&Indore&83459.0&0.0&
+Pune&Chitradurg&58769.0&0.0&
+Hyderabad North&Pune&57323.0&0.0&
+Chitradurg&Bangalore&131983.0&0.0&
+Vijayawada&Hyderabad North&433235.0&0.0&
+Hyderabad North&Sholapur&70876.0&0.0&
+Sholapur&Hyderabad North&14783.0&0.0&
+Guntur&Vijayawada&1887.0&0.0&
+Salem&Coimbatore&48426.0&0.0&
+Bangalore&Salem&167847.0&0.0&
+Pune&Belgaum&1224.0&0.0&
+Hubli, Dharwad&Dharwad&142455.0&0.0&
+Kolhapur&Dharwad&50660.0&0.0&
+Dharwad&Hubli, Dharwad&624.5&179.5&
+Belgaum&Kolhapur&22080.0&0.0&
+Chitradurg&Pune&172151.0&0.0&
+Rajahmundry&Thane&931614.0&0.0&
+Sholapur&Vapi/Ankleshwar&314255.0&0.0&
+Thane&Sholapur&4915547.0&0.0&
+Vapi/Ankleshwar&Rajahmundry&389313.0&0.0&
+Vapi/Ankleshwar&Sholapur&57873.0&0.0&
+Nashik&Vapi/Ankleshwar&50492.6666667&56128.2945957&
+Hyderabad North&Hyderabad South&57442.6666667&77023.7049976&
+Sholapur&Hyderabad North&278173.0&0.0&
+Hyderabad South&Kurnool&265237.0&0.0&
+Sholapur&Nashik&73090.0&0.0&
+Pune&Hyderabad North&306576.0&0.0&
+Hyderabad North&Sholapur&143554.0&0.0&
+Hyderabad South&Hyderabad North&62576.5&25012.5&
+Vapi/Ankleshwar&Nashik&19702.5&3549.5&
+Vapi/Ankleshwar&Chitradurg&158212.0&0.0&
+Vadodara&Rajkot&46209.0&0.0&
+Nashik&Vapi/Ankleshwar&23479.0&0.0&
+Salem&Chitradurg&91866.0&0.0&
+Pardi&Vapi/Ankleshwar&1322.0&0.0&
+Karur&Tiruchirappalli&50995.0&0.0&
+Tiruchirappalli&Bangalore&192736.0&0.0&
+Chitradurg&Salem&73018.0&0.0&
+Pune&Bangalore&413606.0&0.0&
+Chotila&Rajkot&9051.0&0.0&
+Rajkot&Pardi&151936.0&0.0&
+Bangalore&Karur&95397.0&0.0&
+Rajkot&Chotila&5839.0&0.0&
+Bangalore&Salem&7586.0&0.0&
+Salem&Bangalore&15030.0&0.0&
+Chitradurg&Pune&154539.0&0.0&
+Vapi/Ankleshwar&Nashik&245936.0&0.0&
+Hyderabad North&Chennai&49835.0&0.0&
+Chennai&Hyderabad South&131616.0&0.0&
+Nashik&Vapi/Ankleshwar&11954.875&31236.6555486&
+Vapi/Ankleshwar&Sholapur&74389.0&0.0&
+Hyderabad North&Sholapur&64021.0&0.0&
+Sholapur&Nashik&81547.0&0.0&
+Sholapur&Hyderabad North&90334.0&0.0&
+Thane&Vapi/Ankleshwar&38188.0&5571.0&
+Vapi/Ankleshwar&Hyderabad North&457483.0&0.0&
+Vapi/Ankleshwar&Thane&774.0&0.0&
+Hyderabad South&Hyderabad North&335069.0&0.0&
+Vapi/Ankleshwar&Nashik&151.428571429&89.5813391646&
+Pune&Belgaum&78090.0&0.0&
+Hubli, Dharwad&Kolhapur&23343.0&0.0&
+Nashik&Hyderabad South&653814.0&0.0&
+Coimbatore&Hyderabad South&136381.0&0.0&
+Belgaum&Dharwad&5809.0&0.0&
+Hyderabad South&Kurnool&20580.0&0.0&
+Pondicherry&Coimbatore&1523.0&0.0&
+Sholapur&Nashik&68576.0&0.0&
+Coimbatore&Salem&4550.0&7143.02096455&
+Dharwad&Hubli, Dharwad&445.0&0.0&
+Kurnool&Hyderabad South&72325.0&0.0&
+Hyderabad North&Sholapur&81973.0&0.0&
+Bangalore&Chitradurg&13949.0&0.0&
+Kolhapur&Bangalore&63762.0&0.0&
+Salem&Coimbatore&2590.75&3785.2572155&
+Hyderabad South&Hyderabad North&720.0&0.0&
+Chitradurg&Pondicherry&163555.0&0.0&
+Hyderabad North&Chennai&240499.0&0.0&
+Chennai&Hyderabad North&148572.0&0.0&
+Pardi&Vapi/Ankleshwar&1513.0&0.0&
+Hyderabad North&Hyderabad South&3104.0&0.0&
+Thane&Pune&207.75&219.483911711&
+Pune&Thane&180.375&78.8256581006&
+Thane&Vapi/Ankleshwar&8505.0&0.0&
+Thane&Nashik&70538.0&0.0&
+Nashik&Sholapur&73156.0&0.0&
+Sholapur&Hyderabad North&45680.5&45302.5&
+Hyderabad North&Thane&199783.5&136267.5&
+Vapi/Ankleshwar&Thane&5270.0&0.0&
+Thane&Pardi&146870.0&0.0&
+Hyderabad South&Hyderabad North&784.0&0.0&
+Vijayawada&Guntur&39532.0&0.0&
+Hyderabad North&Pune&167108.0&0.0&
+Guntur&Sholapur&483861.0&0.0&
+Pune&Thane&160097.0&0.0&
+Thane&Nashik&43978.0&0.0&
+Thane&Vapi/Ankleshwar&13607.0&0.0&
+Sholapur&Hyderabad South&1118.0&0.0&
+Vapi/Ankleshwar&Thane&3420.0&0.0&
+Hyderabad South&Hyderabad North&2303.0&0.0&
+Hyderabad North&Chennai&164910.0&0.0&
+Chennai&Aurangabad&664050.0&0.0&
+Vijayawada&Hyderabad North&404022.0&0.0&
+Thane&Pune&11813.0&0.0&
+Pune&Thane&46207.5&26772.5&
+Thane&Hyderabad North&54546.0&0.0&
+Sholapur&Pune&90380.0&0.0&
+Hyderabad North&Sholapur&90047.0&0.0&
+Guntur&Vijayawada&1704.0&0.0&
+Vadodara&Ahmedabad&345503.0&0.0&
+Pardi&Vapi/Ankleshwar&2240.0&0.0&
+Hyderabad North&Hyderabad South&352841.0&0.0&
+Vadodara&Pardi&61803.0&0.0&
+Aurangabad&Vadodara&137997.0&0.0&
+Hyderabad North&Dhule&168169.0&0.0&
+Thane&Pune&44380.0&0.0&
+Vapi/Ankleshwar&Thane&22569.0&0.0&
+Pune&Bangalore&221000.0&0.0&
+Hyderabad South&Hyderabad North&95093.0&0.0&
+Dhule&Aurangabad&13501.0&0.0&
+Ahmedabad&Vadodara&30682.0&0.0&
+Chennai&Pondicherry&218670.0&0.0&
+Pune&Sholapur&64043.0&0.0&
+Pondicherry&Salem&29558.0&0.0&
+Kurnool&Hyderabad North&47700.0&0.0&
+Sholapur&Hyderabad North&65888.0&0.0&
+Salem&Kurnool&36186.0&0.0&
+Hyderabad North&Chitradurg&838140.0&0.0&
+Hyderabad North&Sholapur&188324.0&0.0&
+Karur&Salem&51228.0&0.0&
+Salem&Coimbatore&78561.0&0.0&
+Coimbatore&Karur&79174.0&0.0&
+Sholapur&Pune&44091.0&0.0&
+Rajahmundry&Vijayawada&51452.0&0.0&
+Vijayawada&Guntur&10349.0&0.0&
+Guntur&Salem&95784.0&0.0&
+Salem&Guntur&325242.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&25359.0&0.0&
+Kanpur&Visakhapatnam, Kakinada&395354.0&0.0&
+Vijayawada&Gwalior&668216.0&0.0&
+Hyderabad North&Kurnool&19724.0&0.0&
+Gwalior&Agra&18762.0&0.0&
+Agra&Ludhiana&134582.0&0.0&
+Ludhiana&Ambala&9741.0&0.0&
+Jhansi&Agra&1467.0&0.0&
+Ambala&Ludhiana&17102.0&0.0&
+Kurnool&Bangalore&330500.0&0.0&
+Agra&Hyderabad North&150073.0&0.0&
+Bangalore&Guntur&57826.0&0.0&
+Wazirpur&Faridabad&1610.0&0.0&
+Guntur&Vijayawada&27782.0&0.0&
+Wazirpur&Gwalior&140669.0&0.0&
+Faridabad&Wazirpur&41974.0&41132.0&
+Gwalior&Jhansi&9169.0&0.0&
+Hyderabad South&Bangalore&217781.0&0.0&
+Jhansi&Agra&2940.0&0.0&
+Hyderabad South&Kurnool&83921.0&0.0&
+Wazirpur&Gurgaon&206708.0&0.0&
+Kurnool&Hyderabad South&2474.0&0.0&
+Agra&Hyderabad South&240328.0&0.0&
+Bangalore&Guntur&46159.0&0.0&
+Guntur&Vijayawada&1819.0&0.0&
+Gurgaon&Gwalior&134140.0&0.0&
+Gwalior&Jhansi&9085.0&0.0&
+Agra&Jhansi&5925.0&0.0&
+Gwalior&Agra&18799.0&0.0&
+Wazirpur&Agra&91954.0&0.0&
+Warangal&Jhansi&216664.0&0.0&
+Guntur&Vijayawada&3707.0&0.0&
+Hyderabad North&Hyderabad South&687.0&0.0&
+Agra&Gwalior&14141.0&0.0&
+Jhansi&Hyderabad North&1022723.0&0.0&
+Vijayawada&Warangal&170147.0&0.0&
+Bangalore&Guntur&60048.0&0.0&
+Hyderabad South&Bangalore&200482.0&0.0&
+Jhansi&Gwalior&9559.0&0.0&
+Jhansi&Kurnool&145099.0&0.0&
+Kurnool&Hyderabad North&7538.0&0.0&
+Gwalior&Jhansi&84333.0&0.0&
+Pune&Chitradurg&78435.0&0.0&
+Thane&Chitradurg&263445.0&0.0&
+Kurnool&Thane&223303.0&0.0&
+Bangalore&Coimbatore&44214.0&0.0&
+Chitradurg&Bangalore&85868.0&0.0&
+Ahmednagar&Pune&149249.0&0.0&
+Gulburga Gadagh belt&Aurangabad&242612.0&0.0&
+Belgaum&Gulburga Gadagh belt&69456.0&0.0&
+Coimbatore&Surampatti&175451.0&0.0&
+Surampatti&Kurnool&104840.0&0.0&
+Aurangabad&Ahmednagar&172168.0&0.0&
+Hyderabad North&Chennai&153345.0&0.0&
+Chennai&Hyderabad South&134744.0&0.0&
+Hyderabad North&Rajahmundry&88599.0&0.0&
+Hyderabad South&Hyderabad North&120243.0&0.0&
+Pune&Hyderabad North&106898.0&0.0&
+Sholapur&Pune&1466.0&0.0&
+Thane&Sholapur&53154.0&0.0&
+Wazirpur&Noida&180.0&0.0&
+Warangal&Agra&225875.0&0.0&
+Wazirpur&Agra&144746.0&0.0&
+Vijayawada&Guntur&19357.0&13941.0&
+Jhansi&Warangal&244840.0&0.0&
+Agra&Gwalior&16211.0&305.0&
+Jhansi&Agra&46818.0&0.0&
+Guntur&Warangal&232692.0&0.0&
+Gwalior&Faridabad&13869.0&0.0&
+Wazirpur&Faridabad&131.333333333&39.7520090338&
+Warangal&Vijayawada&65269.0&0.0&
+Guntur&Vijayawada&72165.0&0.0&
+Faridabad&Wazirpur&11873.5&20299.9541071&
+Noida&Wazirpur&660.0&0.0&
+Gwalior&Jhansi&9817.0&0.0&
+Kurnool&Bangalore&403771.0&0.0&
+Chennai&Hyderabad South&740820.0&0.0&
+Hyderabad South&Kurnool&100826.0&0.0&
+Bangalore&Chennai&396255.0&0.0&
+Pune&Bangalore&216271.0&0.0&
+Hyderabad South&Dhule&579724.0&0.0&
+Hyderabad North&Hyderabad South&38337.0&0.0&
+Aurangabad&Rajkot&311718.0&0.0&
+Dhule&Chennai&507794.0&0.0&
+Rajkot&Dhule&159954.0&0.0&
+Hyderabad South&Hyderabad North&2100.0&0.0&
+Dhule&Aurangabad&13148.0&0.0&
+Vadodara&Ahmedabad&149502.0&0.0&
+Hyderabad North&Kurnool&93263.0&0.0&
+Bangalore&Hyderabad North&601299.0&0.0&
+Hyderabad North&Vadodara&342322.0&0.0&
+Coimbatore&Palakkad&10830.0&0.0&
+Palakkad&Bangalore&52181.0&0.0&
+Kurnool&Coimbatore&74501.0&0.0&
+Ahmedabad&Vadodara&85311.0&0.0&
+Kurnool&Chennai&45748.0&29964.0&
+Chennai&Hyderabad South&44412.0&0.0&
+Hyderabad North&Nanded&28511.0&0.0&
+Burhanpur&Nanded&79358.0&0.0&
+Indore&Jhalawar&3471.0&0.0&
+Alwar&Amritsar&158014.0&0.0&
+Nanded&Indore&58306.0&0.0&
+Jhalawar&Kota&7600.0&0.0&
+Kota&Alwar&70683.0&0.0&
+Kota&Ujjain&58363.0&0.0&
+Nanded&Kurnool&101943.0&0.0&
+Ujjain&Jhalawar&69758.0&0.0&
+Chennai&Kurnool&66141.0&0.0&
+Amritsar&Alwar&499873.0&0.0&
+Jaipur&Kota&88674.0&0.0&
+Indore&Burhanpur&318.0&52.0&
+Ujjain&Indore&3015.0&0.0&
+Burhanpur&Ujjain&3807.0&0.0&
+Hyderabad South&Hyderabad North&137196.0&0.0&
+Burhanpur&Indore&20.0&0.0&
+Jhalawar&Burhanpur&74114.0&0.0&
+Agra&Jhansi&3332.0&0.0&
+Gwalior&Agra&4201.0&0.0&
+Jhansi&Gwalior&52991.0&0.0&
+Panipat&Jalandhar&1110.0&0.0&
+Karnal&Panipat&2545.0&0.0&
+Panipat&Karnal&16046.0&13815.0&
+Karnal&Jalandhar&262.0&0.0&
+Gurgaon&Gwalior&56550.0&0.0&
+Jalandhar&Karnal&98.0&0.0&
+Jalandhar&Phagwara&1140.0&0.0&
+Karnal&Kartarpur&294.0&32.0&
+Phagwara&Panipat&12.0&0.0&
+Kartarpur&Karnal&71.5&27.5&
+Panipat&Phagwara&8.0&0.0&
+Ludhiana&Samalkha&1340.0&0.0&
+Phagwara&Ludhiana&20571.0&0.0&
+Kartarpur&Jalandhar&360.0&0.0&
+Karnal&Amritsar&48232.0&0.0&
+Samalkha&Panipat&1118.5&76.5&
+Gwalior&Ambala&45585.0&0.0&
+Ambala&Ludhiana&25472.0&0.0&
+Karnal&Gurgaon&166658.0&0.0&
+Amritsar&Kartarpur&43497.0&0.0&
+Kishangarh&Pardi&100253.0&0.0&
+Gurgaon&Wazirpur&212.0&145.712535003&
+Pardi&Thane&44003.0&0.0&
+Noida&Jaipur&73968.0&0.0&
+Jaipur&Faridabad&50342.0&0.0&
+Faridabad&Gurgaon&1527.7&6807.9164588&
+Wazirpur&Noida&447.894736842&273.699199994&
+Jaipur&Noida&9419.0&0.0&
+Pardi&Vapi/Ankleshwar&1295.0&281.0&
+Noida&Ghaziabad&387.0&113.0&
+Wazirpur&Gurgaon&438.692307692&315.310685519&
+Vapi/Ankleshwar&Pardi&12304.5&11002.5&
+Gurgaon&Faridabad&372.307692308&164.315698931&
+Ghaziabad&Noida&372.0&254.0&
+Kishangarh&Jaipur&11883.0&0.0&
+Vapi/Ankleshwar&Thane&58036.0&0.0&
+Thane&Vapi/Ankleshwar&50601.0&0.0&
+Pardi&Kishangarh&187668.0&0.0&
+Noida&Wazirpur&264.0&235.784506135&
+Thane&Wazirpur&767269.0&0.0&
+Noida&Kishangarh&67255.0&0.0&
+Kanpur&Lucknow&135.0&0.0&
+Banda&Lucknow&53030.0&0.0&
+Hyderabad South&Banda&508497.0&0.0&
+Lucknow&Kanpur&1365.0&0.0&
+Gulburga Gadagh belt&Belgaum&39634.75&24056.4439535&
+Belgaum&Gulburga Gadagh belt&56161.25&34308.4974123&
+Gurgaon&Jaipur&60177.5&842.5&
+Kishangarh&Vadodara&74037.0&0.0&
+Vadodara&Thane&17583.0&0.0&
+Gurgaon&Noida&151.583333333&105.520304786&
+Faridabad&Gurgaon&86849.5&43360.5&
+Noida&Thane&389040.0&0.0&
+Vadodara&Pardi&38129.0&36989.0&
+Kishangarh&Pardi&59247.0&0.0&
+Pardi&Kishangarh&71368.0&0.0&
+Vapi/Ankleshwar&Vadodara&3467.0&2067.0&
+Faridabad&Noida&43423.0&0.0&
+Noida&Gurgaon&173.104166667&85.32297453&
+Vadodara&Faridabad&164904.0&0.0&
+Thane&Vadodara&191429.5&32674.5&
+Thane&Vapi/Ankleshwar&43389.0&0.0&
+Vapi/Ankleshwar&Thane&18771.0&0.0&
+Jaipur&Kishangarh&11779.5&821.5&
+Pardi&Vapi/Ankleshwar&3843.5&2504.5&
+Kishangarh&Faridabad&65885.0&0.0&
+Pune&Chitradurg&64636.0&0.0&
+Chitradurg&Bangalore&95687.0&0.0&
+Vijayawada&Hyderabad North&442001.0&0.0&
+Sholapur&Pune&83111.0&0.0&
+Hyderabad North&Sholapur&75515.0&0.0&
+Guntur&Vijayawada&1727.0&0.0&
+Bangalore&Hyderabad South&492242.0&0.0&
+Pune&Hyderabad North&154864.0&0.0&
+Hyderabad North&Chennai&95137.0&0.0&
+Sholapur&Mysore&504207.0&0.0&
+Thane&Pune&13184.0&0.0&
+Bangalore&Hyderabad North&230063.0&0.0&
+Pune&Thane&24600.5&24125.5&
+Sholapur&Pune&21520.0&0.0&
+Chitradurg&Pune&114061.0&0.0&
+Hyderabad North&Sholapur&171656.0&0.0&
+Bangalore&Chitradurg&66795.0&0.0&
+Chennai&Bangalore&225450.0&0.0&
+Thane&Sholapur&61010.0&0.0&
+Hyderabad North&Hyderabad South&3200.0&41.0&
+Chennai&Kurnool&255073.0&0.0&
+Hyderabad South&Hyderabad North&168080.5&167342.5&
+Kurnool&Hyderabad South&64247.0&0.0&
+Hyderabad South&Chennai&220869.0&0.0&
+Gulburga Gadagh belt&Margao&91549.0&0.0&
+Hyderabad North&Hyderabad South&146067.0&0.0&
+Hyderabad North&Belgaum&76957.0&0.0&
+Belgaum&Pune&73909.0&0.0&
+Belgaum&Gulburga Gadagh belt&3593.0&0.0&
+Margao&Belgaum&264063.0&0.0&
+Hyderabad South&Hyderabad North&3194.0&0.0&
+Pune&Bangalore&167849.0&0.0&
+Bangalore&Vijayawada&83071.0&0.0&
+Agra&Jhansi&61.0&0.0&
+Gwalior&Agra&18300.0&0.0&
+Warangal&Jhansi&83125.0&0.0&
+Agra&Gwalior&14632.0&0.0&
+Jhansi&Agra&300.0&0.0&
+Guntur&Bangalore&9569.0&0.0&
+Vijayawada&Warangal&239677.0&0.0&
+Gwalior&Jhansi&28174.0&17429.0&
+Jhansi&Gwalior&10956.0&0.0&
+Wazirpur&Gwalior&154846.0&0.0&
+Jhansi&Wazirpur&43954.0&0.0&
+Bangalore&Guntur&29250.0&0.0&
+Vijayawada&Guntur&38939.0&0.0&
+Nashik&Vapi/Ankleshwar&12652.0&0.0&
+Nashik&Thane&1103076.0&0.0&
+Sholapur&Nashik&16131.0&27643.5618454&
+Nashik&Sholapur&170.0&56.5685424949&
+Hyderabad North&Sholapur&181026.0&0.0&
+Thane&Vapi/Ankleshwar&31797.0&31249.2807597&
+Vapi/Ankleshwar&Thane&59591.75&96676.0292843&
+Guntur&Hyderabad North&244475.0&0.0&
+Vapi/Ankleshwar&Nashik&68481.0&0.0&
+Vijayawada&Guntur&10473.0&0.0&
+Vapi/Ankleshwar&Chitradurg&160834.0&0.0&
+Nashik&Vapi/Ankleshwar&3909.0&0.0&
+Pune&Thane&168.111111111&114.106621139&
+Thane&Pune&167.666666667&35.9845645922&
+Hyderabad North&Sholapur&57.0&0.0&
+Guntur&Sholapur&415932.0&0.0&
+Thane&Nashik&164420.0&0.0&
+Sholapur&Hyderabad North&275.5&24.5&
+Hyderabad North&Thane&61221.0&0.0&
+Guntur&Vijayawada&2010.0&0.0&
+Chitradurg&Hyderabad North&250676.0&0.0&
+Bangalore&Guntur&82794.0&0.0&
+Warangal&Kanpur&488546.0&0.0&
+Kanpur&Warangal&1194911.0&0.0&
+Panipat&Thane&336600.0&0.0&
+Panipat&Karnal&2334.0&0.0&
+Pardi&Thane&472.0&213.753362547&
+Jaipur&Faridabad&4395.0&0.0&
+Thane&Kishangarh&166452.5&1729.5&
+Karnal&Panipat&2236.0&0.0&
+Kishangarh&Thane&198817.0&0.0&
+Pardi&Vapi/Ankleshwar&41412.0&0.0&
+Gurgaon&Noida&92694.0&0.0&
+Faridabad&Jaipur&80863.0&0.0&
+Kishangarh&Jaipur&51082.0&0.0&
+Thane&Vapi/Ankleshwar&9116.8&17234.359047&
+Rohtak&Panipat&5498.0&0.0&
+Vapi/Ankleshwar&Thane&250.0&234.429520325&
+Thane&Pardi&9216.6&17735.2719359&
+Jaipur&Kishangarh&51589.0&0.0&
+Faridabad&Rohtak&79251.0&0.0&
+Kishangarh&Faridabad&47811.0&0.0&
+Vapi/Ankleshwar&Gurgaon&389113.0&0.0&
+Sholapur&Thane&58841.0&0.0&
+Thane&Pune&142.5&77.4548255437&
+Pune&Thane&207.9&64.1926008197&
+Sholapur&Nashik&64.3333333333&43.9418808074&
+Thane&Nashik&65770.0&0.0&
+Nashik&Sholapur&83929.5&144301.957548&
+Hyderabad North&Sholapur&70127.0&0.0&
+Thane&Vapi/Ankleshwar&34535.0&0.0&
+Vapi/Ankleshwar&Thane&1570.0&0.0&
+Bangalore&Salem&62950.0&0.0&
+Pune&Sholapur&17999.6666667&25575.8127513&
+Sholapur&Chitradurg&11215.0&0.0&
+Ahmedabad&Thane&388931.0&0.0&
+Hubli, Dharwad&Dharwad&690.0&0.0&
+Vijayawada&Ahmedabad&748404.0&0.0&
+Belgaum&Pune&2601.0&0.0&
+Chitradurg&Guntur&514195.0&0.0&
+Sholapur&Pune&7547.6&14843.917712&
+Dharwad&Belgaum&5683.0&0.0&
+Guntur&Vijayawada&2029.0&0.0&
+Chitradurg&Hubli, Dharwad&80188.0&0.0&
+Pune&Belgaum&57171.0&0.0&
+Chennai&Hyderabad South&596378.0&0.0&
+Pune&Kolhapur&235.0&0.0&
+Guntur&Vijayawada&3002.0&0.0&
+Belgaum&Dharwad&8724.0&0.0&
+Shimoga&Bangalore&96221.0&0.0&
+Sholapur&Pune&24174.0&0.0&
+Dharwad&Hubli, Dharwad&840.0&0.0&
+Sholapur&Hyderabad North&686194.0&0.0&
+Hyderabad North&Sholapur&56492.0&0.0&
+Vijayawada&Sholapur&237221.0&0.0&
+Hubli, Dharwad&Pune&17151.0&0.0&
+Kolhapur&Shimoga&69140.0&0.0&
+Hyderabad South&Hyderabad North&2076.0&0.0&
+Bangalore&Guntur&249488.0&0.0&
+Bangalore&Chitradurg&95056.0&0.0&
+Chitradurg&Thane&419559.0&0.0&
+Thane&Vapi/Ankleshwar&160007.0&0.0&
+Nashik&Tiruchirappalli&948910.0&0.0&
+Vapi/Ankleshwar&Nashik&57146.0&0.0&
+Gulburga Gadagh belt&Belgaum&67746.3333333&43759.1468864&
+Belgaum&Gulburga Gadagh belt&398949.666667&467138.942444&
+Pune&Belgaum&47440.0&0.0&
+Hubli, Dharwad&Kolhapur&12570.0&0.0&
+Chitradurg&Bangalore&86618.0&0.0&
+Vijayawada&Hyderabad North&241439.0&0.0&
+Thane&Pune&43827.0&0.0&
+Belgaum&Dharwad&8403.0&0.0&
+Bangalore&Chennai&48082.0&0.0&
+Sholapur&Pune&67883.0&0.0&
+Dharwad&Hubli, Dharwad&720.0&0.0&
+Chennai&Sholapur&827560.0&0.0&
+Hyderabad North&Sholapur&95577.0&0.0&
+Guntur&Vijayawada&1976.0&0.0&
+Kolhapur&Chitradurg&7698.0&0.0&
+Bangalore&Guntur&172342.0&0.0&
+Pune&Bangalore&131940.0&0.0&
+Hyderabad North&Hyderabad South&60329.5&21265.5&
+Warangal&Hyderabad North&352143.0&0.0&
+Hyderabad North&Gulburga Gadagh belt&55074.0&0.0&
+Belgaum&Hyderabad North&855767.0&0.0&
+Hyderabad North&Warangal&496168.0&0.0&
+Gulburga Gadagh belt&Belgaum&105393.0&0.0&
+Hyderabad South&Hyderabad North&24716.5&22233.5&
+Vadodara&Ahmedabad&98589.0&0.0&
+Chennai&Hyderabad South&144448.0&0.0&
+Chitradurg&Bangalore&59537.0&0.0&
+Sholapur&Thane&54079.0&0.0&
+Hyderabad South&Guntur&135290.0&0.0&
+Bangalore&Chennai&151284.0&0.0&
+Nashik&Chitradurg&172740.0&0.0&
+Guntur&Vadodara&696416.0&0.0&
+Thane&Vapi/Ankleshwar&21966.0&21622.0&
+Vapi/Ankleshwar&Thane&28939.0&0.0&
+Vapi/Ankleshwar&Nashik&83352.0&0.0&
+Gurgaon&Wazirpur&7624.0&7229.0&
+Hyderabad South&Indore&235149.0&0.0&
+Hyderabad North&Hyderabad South&2950.0&0.0&
+Wazirpur&Gurgaon&365.0&0.0&
+Indore&Ujjain&3014.0&0.0&
+Kota&Jhalawar&26073.0&0.0&
+Jhalawar&Gurgaon&508990.0&0.0&
+Alwar&Wazirpur&476440.0&0.0&
+Ujjain&Alwar&182970.0&0.0&
+Nanded&Hyderabad North&73455.0&0.0&
+Wazirpur&Nanded&582622.0&0.0&
+Hyderabad North&Chennai&131502.0&0.0&
+Chennai&Hyderabad North&83573.0&0.0&
+Rajahmundry&Hyderabad South&93215.0&0.0&
+Bangalore&Chennai&245844.0&0.0&
+Chennai&Bangalore&67388.0&0.0&
+Hyderabad South&Hyderabad North&75417.0&0.0&
+Hyderabad North&Kurnool&12984.0&0.0&
+Bangalore&Coimbatore&67963.0&0.0&
+Hyderabad North&Hyderabad South&17529.0&18244.5117364&
+Sholapur&Hyderabad North&240465.0&0.0&
+Pune&Thane&35969.0&15436.0&
+Hyderabad South&Sholapur&417272.0&0.0&
+Thane&Hyderabad North&142738.0&0.0&
+Coimbatore&Salem&100073.0&0.0&
+Salem&Hyderabad North&75551.0&0.0&
+Hyderabad North&Sholapur&144165.0&0.0&
+Kurnool&Hyderabad North&97322.0&0.0&
+Hyderabad South&Hyderabad North&28898.3333333&20175.8850832&
+Thane&Sholapur&5398.0&0.0&
+Sholapur&Pune&40207.5&35793.5&
+Hyderabad North&Kurnool&153073.0&0.0&
+Kottayam&Kochi&9841.0&0.0&
+Chennai&Hyderabad North&77086.0&0.0&
+Hyderabad North&Hyderabad South&253192.0&0.0&
+Hyderabad South&Kottayam&392162.0&0.0&
+Kurnool&Hyderabad North&14929.0&0.0&
+Vapi/Ankleshwar&Amravati&89170.0&0.0&
+Hyderabad North&Pune&578112.0&0.0&
+Pune&Ahmedabad&595185.0&0.0&
+Nashik&Vapi/Ankleshwar&99.5&22.5&
+Kurnool&Hyderabad North&98770.0&0.0&
+Amravati&Kurnool&676475.0&0.0&
+Sholapur&Vapi/Ankleshwar&135809.0&0.0&
+Vapi/Ankleshwar&Dhule&138565.0&0.0&
+Dhule&Vapi/Ankleshwar&14893.0&0.0&
+Vapi/Ankleshwar&Nashik&163.0&60.0&
+Hyderabad North&Hyderabad South&354.0&0.0&
+Agra&Jhansi&612635.0&0.0&
+Hyderabad North&Agra&580083.0&0.0&
+Hyderabad South&Hyderabad North&47.0&0.0&
+Dhule&Vadodara&78537.0&0.0&
+Vadodara&Ahmedabad&7459.0&0.0&
+Pardi&Thane&147.0&0.0&
+Hyderabad North&Hyderabad South&814.0&0.0&
+Vadodara&Thane&92368.0&0.0&
+Bangalore&Pune&601476.0&0.0&
+Ahmedabad&Vadodara&145491.0&0.0&
+Hyderabad South&Bangalore&562531.0&0.0&
+Thane&Vapi/Ankleshwar&66724.0&104208.080812&
+Sholapur&Hyderabad South&152447.0&0.0&
+Vapi/Ankleshwar&Thane&69.6666666667&76.6130247122&
+Thane&Pardi&168.0&0.0&
+Aurangabad&Dhule&17773.0&0.0&
+Hyderabad South&Hyderabad North&36813.0&0.0&
+Nashik&Sholapur&72380.0&0.0&
+Vapi/Ankleshwar&Nashik&84123.0&0.0&
+Pune&Chitradurg&49029.0&0.0&
+Chitradurg&Bangalore&82011.0&0.0&
+Bangalore&Chennai&44299.0&0.0&
+Thane&Pune&49485.0&34015.0&
+Pune&Thane&240.0&0.0&
+Belgaum&Pune&29073.0&0.0&
+Pune&Coimbatore&653208.0&0.0&
+Chennai&Belgaum&520977.0&0.0&
+Thane&Vapi/Ankleshwar&44230.0&0.0&
+Vapi/Ankleshwar&Thane&130230.0&0.0&
+Kanpur&Lucknow&6371.625&14222.8960301&
+Hyderabad North&Kanpur&418160.0&0.0&
+Kanpur&Hyderabad South&488931.0&0.0&
+Hyderabad South&Hyderabad North&730.0&0.0&
+Lucknow&Kanpur&38671.875&65868.8155549&
+Hyderabad North&Chennai&250771.0&0.0&
+Hyderabad North&Guntur&114261.0&0.0&
+Guntur&Thane&395086.0&0.0&
+Chennai&Hyderabad North&149393.0&0.0&
+Sholapur&Thane&76293.0&0.0&
+Hyderabad North&Hyderabad South&3524.0&0.0&
+Thane&Pune&166.333333333&80.4929258451&
+Sholapur&Hyderabad North&77596.0&0.0&
+Pune&Thane&202.777777778&75.6127234704&
+Thane&Nashik&71213.0&0.0&
+Nashik&Sholapur&77603.0&0.0&
+Hyderabad North&Sholapur&69072.0&0.0&
+Thane&Vapi/Ankleshwar&81075.0&0.0&
+Vapi/Ankleshwar&Thane&2165.0&0.0&
+Hyderabad South&Hyderabad North&787.0&0.0&
+Hyderabad North&Chennai&145724.0&0.0&
+Hyderabad South&Rajahmundry&390604.0&0.0&
+Chennai&Hyderabad North&45045.0&0.0&
+Vijayawada&Hyderabad North&353611.0&0.0&
+Hyderabad North&Hyderabad South&38369.0&0.0&
+Thane&Pune&174.375&82.108065225&
+Sholapur&Hyderabad North&215.666666667&120.128634758&
+Pune&Thane&8205.44444444&22645.7461746&
+Thane&Hyderabad North&68696.0&0.0&
+Sholapur&Pune&74195.0&0.0&
+Hyderabad North&Sholapur&17800.25&30425.8140924&
+Guntur&Vijayawada&2305.0&0.0&
+Rajahmundry&Hyderabad North&475588.0&0.0&
+Pune&Belgaum&177.0&0.0&
+Sholapur&Bangalore&606339.0&0.0&
+Pune&Dharwad&3457.0&0.0&
+Bangalore&Chennai&267993.0&0.0&
+Belgaum&Pune&123.0&0.0&
+Dharwad&Hubli, Dharwad&720.0&0.0&
+Chennai&Bangalore&586337.0&0.0&
+Bangalore&Sholapur&188798.0&0.0&
+Hubli, Dharwad&Bangalore&79994.0&0.0&
+Vijayawada&Hyderabad North&352682.0&0.0&
+Aurangabad&Hyderabad North&261567.0&0.0&
+Vadodara&Aurangabad&185511.0&0.0&
+Hyderabad North&Vijayawada&92784.0&0.0&
+Faridabad&Thane&1015923.0&538744.0&
+Noida&Faridabad&9332.0&0.0&
+Thane&Vadodara&69277.0&0.0&
+Thane&Noida&311359.0&0.0&
+Vijayawada&Guntur&13380.0&0.0&
+Hyderabad North&Visakhapatnam, Kakinada&160344.0&0.0&
+Guntur&Salem&72582.0&0.0&
+Rajahmundry&Guntur&476071.0&0.0&
+Salem&Hyderabad North&862900.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&43682.0&0.0&
+Guntur&Vijayawada&1860.0&0.0&
+Kurnool&Hyderabad North&103466.0&0.0&
+Palakkad&Kottayam&21167.0&0.0&
+Chitradurg&Bangalore&137.0&101.153348931&
+Kottayam&Warangal&838451.0&0.0&
+Alappuzha&Kottayam&4357.0&0.0&
+Salem&Palakkad&6848.0&0.0&
+Kottayam&Salem&168779.0&0.0&
+Bangalore&Palakkad&83157.0&0.0&
+Palakkad&Kochi&135290.0&0.0&
+Bangalore&Chitradurg&224.666666667&140.271958075&
+Kochi&Alappuzha&5149.0&0.0&
+Pune&Bangalore&46716.0&0.0&
+Dhule&Vadodara&180331.0&0.0&
+Vijayawada&Guntur&2007.0&0.0&
+Pardi&Thane&17415.0&0.0&
+Pune&Kolhapur&66011.0&0.0&
+Aurangabad&Dhule&61281.0&0.0&
+Hyderabad North&Hyderabad South&6506.0&0.0&
+Vadodara&Pardi&77168.0&0.0&
+Belgaum&Dharwad&5989.0&0.0&
+Guntur&Hyderabad South&6476.0&0.0&
+Hyderabad South&Aurangabad&339393.0&0.0&
+Sholapur&Pune&92436.0&0.0&
+Dharwad&Hubli, Dharwad&660.0&0.0&
+Guntur&Vijayawada&1783.0&0.0&
+Chitradurg&Belgaum&12420.0&0.0&
+Kolhapur&Chitradurg&1735.0&0.0&
+Hubli, Dharwad&Bangalore&78469.0&0.0&
+Hyderabad South&Hyderabad North&78910.0&0.0&
+Bangalore&Guntur&91239.0&0.0&
+Vijayawada&Guntur&78881.0&0.0&
+Hyderabad North&Kurnool&87595.0&0.0&
+Kurnool&Pardi&659688.0&0.0&
+Guntur&Hyderabad South&89956.0&0.0&
+Pardi&Bangalore&690147.0&0.0&
+Sholapur&Pune&160365.0&0.0&
+Guntur&Vijayawada&2418.0&0.0&
+Hyderabad South&Hyderabad North&83230.0&0.0&
+Bangalore&Guntur&73360.0&0.0&
+Pune&Bangalore&81676.0&0.0&
+Vadodara&Ahmedabad&226.0&61.5846301172&
+Sholapur&Thane&76041.0&0.0&
+Pardi&Vapi/Ankleshwar&21.0&0.0&
+Hyderabad North&Sholapur&71785.0&0.0&
+Pune&Thane&145.647058824&99.1409817182&
+Vadodara&Vapi/Ankleshwar&63870.0&0.0&
+Pune&Nashik&81133.0&0.0&
+Vapi/Ankleshwar&Pardi&311.0&0.0&
+Sholapur&Guntur&688945.0&0.0&
+Nashik&Ahmedabad&136859.0&0.0&
+Ahmedabad&Vadodara&16443.0&28391.2193028&
+Sholapur&Hyderabad North&99388.0&0.0&
+Thane&Pune&137.705882353&98.9543951441&
+Guntur&Vijayawada&2044.0&0.0&
+Vapi/Ankleshwar&Thane&43742.0&0.0&
+Sholapur&Pune&27072.0&0.0&
+Thane&Sholapur&146601.0&85464.0&
+Hyderabad North&Chennai&74642.0&0.0&
+Vadodara&Ahmedabad&304.0&271.0&
+Chennai&Pondicherry&251512.0&0.0&
+Hyderabad North&Aurangabad&107221.0&0.0&
+Dhule&Hyderabad North&155750.0&0.0&
+Dhule&Ahmedabad&228575.0&0.0&
+Ahmedabad&Vadodara&296.5&271.5&
+Aurangabad&Dhule&54864.0&35869.0&
+Ahmedabad&Aurangabad&49884.0&0.0&
+Hyderabad North&Hyderabad South&72569.5&10861.5&
+Pune&Thane&51358.0&0.0&
+Chennai&Thane&924900.0&0.0&
+Sholapur&Nashik&128.5&2.5&
+Nashik&Sholapur&229.0&2.44948974278&
+Sholapur&Hyderabad North&97790.0&0.0&
+Thane&Vapi/Ankleshwar&166601.0&0.0&
+Hyderabad South&Hyderabad North&1018.0&0.0&
+Hyderabad South&Chennai&74516.0&0.0&
+Vapi/Ankleshwar&Nashik&59719.0&0.0&
+Visakhapatnam, Kakinada&Salem&562418.0&0.0&
+Coimbatore&Guntur&234662.0&0.0&
+Bangalore&Coimbatore&111878.0&0.0&
+Nashik&Vapi/Ankleshwar&22032.0&0.0&
+Vijayawada&Visakhapatnam, Kakinada&838219.0&0.0&
+Nashik&Chitradurg&130260.0&0.0&
+Chitradurg&Bangalore&57174.0&0.0&
+Guntur&Vijayawada&3909.0&0.0&
+Vapi/Ankleshwar&Nashik&75820.0&59021.0&
+Chitradurg&Chennai&304815.0&0.0&
+Hyderabad North&Guntur&157171.0&0.0&
+Chennai&Hyderabad South&252726.0&0.0&
+Belgaum&Dharwad&4938.0&0.0&
+Hubli, Dharwad&Kolhapur&20914.0&0.0&
+Dharwad&Hubli, Dharwad&720.0&0.0&
+Vijayawada&Belgaum&423313.0&0.0&
+Guntur&Vijayawada&72950.0&0.0&
+Hyderabad South&Hyderabad North&120225.0&0.0&
+Vapi/Ankleshwar&Sholapur&75261.0&0.0&
+Chitradurg&Bangalore&88831.0&0.0&
+Nashik&Vapi/Ankleshwar&4291.0&0.0&
+Pune&Thane&364.666666667&247.61035699&
+Thane&Pune&216.333333333&114.313409343&
+Sholapur&Hyderabad North&20745.75&35499.7070437&
+Bangalore&Chennai&49243.0&0.0&
+Thane&Nashik&336729.0&0.0&
+Chennai&Sholapur&174924.0&0.0&
+Hyderabad North&Sholapur&118.0&60.0&
+Hyderabad North&Thane&61991.0&0.0&
+Hyderabad North&Chennai&45156.0&0.0&
+Vadodara&Ahmedabad&781.0&0.0&
+Chennai&Pondicherry&148838.0&0.0&
+Chennai&Pune&585710.0&0.0&
+Ahmedabad&Kalol&239.0&127.0&
+Sholapur&Nashik&101189.0&0.0&
+Nashik&Ahmedabad&138132.0&0.0&
+Pondicherry&Chennai&585703.0&0.0&
+Ahmedabad&Vadodara&23655.0&23536.0&
+Vadodara&Dhule&8236.0&0.0&
+Kalol&Ahmedabad&466.5&39.5&
+Aurangabad&Hyderabad North&265688.0&0.0&
+Dhule&Aurangabad&20084.0&0.0&
+Hyderabad North&Chennai&74020.0&0.0&
+Pune&Belgaum&7795.0&0.0&
+Belgaum&Thane&56012.0&0.0&
+Pardi&Thane&571.0&0.0&
+Pune&Kolhapur&61729.0&0.0&
+Hubli, Dharwad&Dharwad&680.0&0.0&
+Kolhapur&Belgaum&12384.0&0.0&
+Belgaum&Dharwad&9043.0&0.0&
+Vadodara&Dhule&9063.0&0.0&
+Vapi/Ankleshwar&Pardi&1351.0&0.0&
+Sholapur&Pune&194777.0&0.0&
+Dharwad&Hubli, Dharwad&677.0&0.0&
+Ahmedabad&Vadodara&66713.0&0.0&
+Thane&Vadodara&57444.0&0.0&
+Aurangabad&Hyderabad North&195031.0&0.0&
+Thane&Vapi/Ankleshwar&21652.0&0.0&
+Vadodara&Ahmedabad&8313.0&0.0&
+Dhule&Aurangabad&65462.0&0.0&
+Dharwad&Pune&163650.0&0.0&
+Dhule&Chennai&567457.0&0.0&
+Aurangabad&Vadodara&150102.0&0.0&
+Ahmedabad&Surat&66040.0&0.0&
+Surat&Dhule&43445.0&0.0&
+Vadodara&Ahmedabad&301.0&0.0&
+Palakkad&Kottayam&128137.5&107017.5&
+Warangal&Coimbatore&824720.0&0.0&
+Kottayam&Kochi&35100.0&0.0&
+Salem&Palakkad&86396.0&0.0&
+Coimbatore&Salem&18840.0&0.0&
+Kochi&Palakkad&63131.0&0.0&
+Salem&Kurnool&15950.0&0.0&
+Kottayam&Salem&64142.0&0.0&
+Kurnool&Warangal&177384.0&0.0&
+Hyderabad North&Kurnool&70904.0&0.0&
+Nashik&Vapi/Ankleshwar&78325.0&0.0&
+Sholapur&Hyderabad North&106387.0&0.0&
+Pune&Thane&23086.0&0.0&
+Thane&Hyderabad North&77309.0&0.0&
+Sholapur&Nashik&96980.0&0.0&
+Sholapur&Pune&3934.0&0.0&
+Nashik&Sholapur&10564.0&0.0&
+Hyderabad North&Sholapur&815723.0&386244.0&
+Kurnool&Hyderabad North&10195.0&0.0&
+Thane&Sholapur&4940.0&0.0&
+Vapi/Ankleshwar&Nashik&62673.0&0.0&
+Dhule&Vadodara&4471.0&0.0&
+Vadodara&Ahmedabad&76670.0&0.0&
+Pardi&Thane&346.0&0.0&
+Hyderabad North&Aurangabad&100542.0&0.0&
+Ahmedabad&Thane&62003.0&0.0&
+Chitradurg&Chennai&653726.0&0.0&
+Vijayawada&Hyderabad North&147984.0&0.0&
+Thane&Pune&43318.0&0.0&
+Hyderabad North&Chennai&88901.0&0.0&
+Pune&Hyderabad North&147372.0&0.0&
+Pune&Sholapur&26083.0&0.0&
+Chennai&Chitradurg&614345.0&0.0&
+Thane&Vapi/Ankleshwar&184.0&0.0&
+Guntur&Vijayawada&47517.0&0.0&
+Vapi/Ankleshwar&Thane&101.0&0.0&
+Thane&Pardi&47.0&0.0&
+Aurangabad&Dhule&72606.0&0.0&
+Sholapur&Pune&13234.0&0.0&
+Wazirpur&Noida&10970.5&18761.9249079&
+Firozabad&Kurnool&421537.0&0.0&
+Gurgaon&Wazirpur&14572.0&20453.0944847&
+Gurgaon&Agra&313.0&0.0&
+Bangalore&Chennai&108310.0&0.0&
+Noida&Agra&80519.0&0.0&
+Wazirpur&Gurgaon&254.0&0.0&
+Kurnool&Bangalore&60037.0&0.0&
+Firozabad&Agra&3840.0&0.0&
+Noida&Gurgaon&160.0&0.0&
+Agra&Gurgaon&47046.0&382.0&
+Agra&Firozabad&47148.0&0.0&
+Noida&Wazirpur&26.0&1.0&
+Chennai&Kanpur&915549.0&0.0&
+Pune&Belgaum&235294.0&0.0&
+Hubli, Dharwad&Dharwad&720.0&0.0&
+Belgaum&Dharwad&6492.0&0.0&
+Belgaum&Pune&43439.0&0.0&
+Dharwad&Hubli, Dharwad&849.0&0.0&
+Dharwad&Belgaum&150457.0&0.0&
+Chitradurg&Pune&187777.0&0.0&
+Pune&Bangalore&339437.0&0.0&
+Pune&Sholapur&52961.0&0.0&
+Hyderabad North&Sangli&147722.0&0.0&
+Pardi&Vapi/Ankleshwar&35732.0&0.0&
+Pune&Thane&64128.0&0.0&
+Belgaum&Pune&73148.0&0.0&
+Sholapur&Belgaum&168160.0&0.0&
+Vapi/Ankleshwar&Pardi&780.0&0.0&
+Pune&Hyderabad North&48611.0&0.0&
+Vapi/Ankleshwar&Pondicherry&934685.0&0.0&
+Thane&Vapi/Ankleshwar&43393.0&0.0&
+Sangli&Kolhapur&5753.0&0.0&
+Kolhapur&Sholapur&5300.0&0.0&
+Sholapur&Pune&33018.0&0.0&
+Moradabad&Roorkee&345231.0&0.0&
+Hyderabad North&Bangalore&130283.0&0.0&
+Kanpur&Moradabad&83331.0&0.0&
+Vijayawada&Warangal&249146.0&0.0&
+Guntur&Vijayawada&1780.0&0.0&
+Warangal&Kanpur&344524.0&0.0&
+Kurnool&Hyderabad North&19356.0&0.0&
+Bangalore&Guntur&82679.0&0.0&
+Hyderabad North&Hyderabad South&49768.0&32726.0&
+Hyderabad South&Hyderabad North&30692.0&24570.0&
+Agra&Jhansi&316.0&0.0&
+Vijayawada&Bangalore&828.0&0.0&
+Gwalior&Wazirpur&72058.0&0.0&
+Jhansi&Agra&584.0&0.0&
+Bangalore&Warangal&310542.0&0.0&
+Kurnool&Bangalore&170047.0&0.0&
+Warangal&Jhansi&180425.0&0.0&
+Gwalior&Jhansi&11278.0&0.0&
+Wazirpur&Gwalior&157564.0&0.0&
+Jhansi&Gwalior&45513.5&30750.5&
+Guntur&Vijayawada&3078.0&0.0&
+Bangalore&Guntur&79445.0&0.0&
+Pune&Chitradurg&58905.0&0.0&
+Hyderabad North&Guntur&75818.0&0.0&
+Chitradurg&Bangalore&168258.0&0.0&
+Vijayawada&Hyderabad North&433273.0&0.0&
+Sholapur&Pune&75137.0&0.0&
+Hyderabad North&Sholapur&68601.0&0.0&
+Guntur&Vijayawada&1865.0&0.0&
+Pune&Chitradurg&58911.0&0.0&
+Chitradurg&Chennai&400116.0&0.0&
+Sholapur&Hyderabad North&17506.0&0.0&
+Hyderabad North&Pune&57656.0&0.0&
+Hyderabad North&Sholapur&68507.0&0.0&
+Pune&Hyderabad North&102940.0&0.0&
+Sholapur&Thane&45888.0&0.0&
+Hyderabad North&Hyderabad South&61499.0&0.0&
+Thane&Pune&102.888888889&65.654727247&
+Pune&Thane&207.333333333&95.8447819249&
+Sholapur&Pune&3088.0&0.0&
+Thane&Nashik&135052.0&0.0&
+Hyderabad North&Sholapur&192833.0&0.0&
+Hyderabad North&Thane&318819.0&0.0&
+Hyderabad South&Hyderabad North&541019.0&0.0&
+Thane&Sholapur&51572.0&0.0&
+Chennai&Hyderabad South&84391.0&0.0&
+Salem&Bangalore&46204.0&0.0&
+Bangalore&Salem&93278.5&91083.5&
+Salem&Chennai&325969.0&0.0&
+Pune&Chitradurg&63320.0&0.0&
+Chitradurg&Chennai&297503.0&52742.0&
+Hubli, Dharwad&Kolhapur&19158.0&0.0&
+Pune&Belgaum&85.0&0.0&
+Pune&Dharwad&8625.0&0.0&
+Chitradurg&Sholapur&18311.0&0.0&
+Bangalore&Hyderabad North&478096.0&0.0&
+Belgaum&Pune&335.0&0.0&
+Kolhapur&Pune&9833.0&0.0&
+Sholapur&Pune&143393.0&0.0&
+Dharwad&Hubli, Dharwad&1140.0&0.0&
+Hyderabad North&Hyderabad South&2673.0&0.0&
+Chennai&Chitradurg&223212.0&0.0&
+Chennai&Bangalore&138884.0&0.0&
+Hyderabad South&Visakhapatnam, Kakinada&164670.0&0.0&
+Ahmednagar&Bangalore&226288.0&0.0&
+Hyderabad North&Pune&250696.0&0.0&
+Thane&Vapi/Ankleshwar&25596.0&0.0&
+Chitradurg&Bangalore&370.0&0.0&
+Vijayawada&Hyderabad North&252119.0&0.0&
+Sholapur&Thane&4109.0&0.0&
+Pune&Sholapur&4491.0&0.0&
+Bangalore&Chitradurg&333.0&0.0&
+Guntur&Vijayawada&1799.0&0.0&
+Vapi/Ankleshwar&Thane&8169.0&0.0&
+Bangalore&Guntur&146729.0&0.0&
+Hubli, Dharwad&Dharwad&1020.0&0.0&
+Chitradurg&Bangalore&19108.0&0.0&
+Hyderabad South&Gulburga Gadagh belt&58293.0&0.0&
+Hyderabad North&Hyderabad South&6929.4&13613.9199439&
+Kurnool&Hyderabad South&276646.0&0.0&
+Hubli, Dharwad&Hyderabad South&44193.0&0.0&
+Dharwad&Hubli, Dharwad&121090.5&120430.5&
+Hubli, Dharwad&Gulburga Gadagh belt&33428.0&0.0&
+Hyderabad South&Bangalore&965330.0&0.0&
+Gulburga Gadagh belt&Dharwad&3498.0&0.0&
+Gulburga Gadagh belt&Hubli, Dharwad&86039.0&0.0&
+Hyderabad South&Hyderabad North&10829.2&20527.4059969&
+Bangalore&Kurnool&65476.0&0.0&
+Hyderabad North&Palakkad&399647.0&0.0&
+Pune&Kolhapur&57993.0&0.0&
+Kolhapur&Belgaum&16766.0&0.0&
+Hyderabad North&Hyderabad South&6561.0&0.0&
+Pune&Thane&43718.0&0.0&
+Belgaum&Pune&11640.0&0.0&
+Thane&Hyderabad North&261226.0&0.0&
+Hyderabad South&Aurangabad&235865.0&0.0&
+Dharwad&Mangalore&8331.0&0.0&
+Aurangabad&Pune&104873.0&0.0&
+Pune&Dharwad&65196.0&0.0&
+Mangalore&Mysore&85507.0&0.0&
+Chitradurg&Pune&167822.0&0.0&
+Mysore&Chitradurg&48456.0&0.0&
+Hyderabad North&Chennai&163012.0&0.0&
+Chennai&Guntur&73758.0&0.0&
+Vijayawada&Hyderabad North&514868.0&0.0&
+Thane&Pune&4135.30769231&13608.1347469&
+Vijayawada&Thane&562075.0&0.0&
+Pune&Thane&155.5&47.8060316975&
+Chennai&Vijayawada&68931.0&0.0&
+Sholapur&Thane&64720.0&0.0&
+Pune&Hyderabad North&88631.0&0.0&
+Hyderabad North&Sholapur&71945.0&0.0&
+Guntur&Vijayawada&2460.0&0.0&
+Hyderabad North&Guntur&250938.0&0.0&
+Vijayawada&Hyderabad North&672942.0&0.0&
+Sholapur&Thane&495818.0&0.0&
+Hyderabad North&Sholapur&89352.0&0.0&
+Guntur&Vijayawada&2631.0&0.0&
+Kurnool&Hyderabad North&92007.0&0.0&
+Bangalore&Kurnool&74391.0&0.0&
+Dhule&Pardi&151191.0&0.0&
+Dhule&Nashik&16191.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&4205.0&0.0&
+Dhenkanal&Cuttack&6108.0&0.0&
+Pardi&Vapi/Ankleshwar&1380.0&0.0&
+Raipur&Dhule&172496.0&0.0&
+Raipur&Dhenkanal&145024.0&0.0&
+Surat&Amravati&194916.0&0.0&
+Nashik&Thane&139885.0&0.0&
+Vapi/Ankleshwar&Pardi&1081.0&0.0&
+Amravati&Durg, Rajnandgaon, Raipur&95410.0&0.0&
+Cuttack&Raipur&348826.0&0.0&
+Thane&Surat&389790.0&0.0&
+Durg, Raipur&Raipur&2787.0&0.0&
+Surat&Dhule&48835.0&0.0&
+Pardi&Surat&16992.0&0.0&
+Dhule&Amravati&89480.0&0.0&
+Pune&Chitradurg&229120.0&0.0&
+Chitradurg&Bangalore&43777.0&0.0&
+Hubli, Dharwad&Dharwad&1020.0&0.0&
+Salem&Bangalore&65845.0&0.0&
+Bangalore&Coimbatore&69305.0&0.0&
+Kolhapur&Pune&2695.0&0.0&
+Chennai&Salem&77721.0&0.0&
+Chitradurg&Kolhapur&71034.0&0.0&
+Guntur&Vijayawada&1448.0&0.0&
+Dharwad&Belgaum&6094.0&0.0&
+Bangalore&Hubli, Dharwad&4786.0&0.0&
+Belgaum&Chitradurg&11238.0&0.0&
+Coimbatore&Guntur&228378.0&0.0&
+Mysore&Bangalore&21245.75&36577.6464823&
+Pune&Belgaum&5388.0&0.0&
+Bangalore&Hyderabad South&61810.0&0.0&
+Hyderabad South&Sholapur&338589.0&0.0&
+Bangalore&Mysore&545.333333333&499.691460359&
+Belgaum&Kolhapur&15472.0&0.0&
+Sholapur&Pune&149547.0&0.0&
+Kolhapur&Shimoga&91280.0&0.0&
+Shimoga&Mysore&219440.0&0.0&
+Pune&Chitradurg&431554.0&0.0&
+Hyderabad North&Guntur&83962.0&0.0&
+Vijayawada&Hyderabad North&207455.0&0.0&
+Hyderabad North&Hyderabad South&19716.5&19059.5&
+Sholapur&Pune&158836.0&0.0&
+Hyderabad North&Sholapur&147348.0&0.0&
+Guntur&Vijayawada&70398.0&0.0&
+Hyderabad South&Hyderabad North&2739.0&752.0&
+Pune&Chitradurg&73367.0&0.0&
+Chennai&Hyderabad South&133913.0&0.0&
+Vijayawada&Visakhapatnam, Kakinada&75680.0&0.0&
+Rajahmundry&Guntur&1020266.0&0.0&
+Chitradurg&Guntur&513533.0&0.0&
+Sholapur&Pune&56995.0&0.0&
+Hyderabad North&Sholapur&29506.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&21448.6666667&30106.7291961&
+Guntur&Vijayawada&2010.0&0.0&
+Rajahmundry&Visakhapatnam, Kakinada&485.5&281.5&
+Hyderabad South&Hyderabad North&2227.0&0.0&
+Wazirpur&Agra&159478.0&0.0&
+Vijayawada&Warangal&263349.0&0.0&
+Warangal&Vijayawada&56713.0&0.0&
+Warangal&Firozabad&328686.0&0.0&
+Agra&Wazirpur&56993.0&0.0&
+Firozabad&Agra&4819.0&0.0&
+Faridabad&Noida&340.0&0.0&
+Wazirpur&Faridabad&157.125&104.446681972&
+Agra&Firozabad&3437.0&0.0&
+Faridabad&Wazirpur&6401.0&15249.1873976&
+Noida&Wazirpur&55.0&0.0&
+Firozabad&Kanpur&921867.0&0.0&
+Salem&Guntur&143672.0&0.0&
+Vijayawada&Hyderabad North&326593.0&0.0&
+Hyderabad North&Sholapur&69326.0&0.0&
+Salem&Palakkad&103704.0&0.0&
+Coimbatore&Salem&89788.0&0.0&
+Sholapur&Nagpur&1219741.0&0.0&
+Palakkad&Coimbatore&25117.0&0.0&
+Guntur&Vijayawada&1957.0&0.0&
+Hyderabad North&Pune&741454.0&0.0&
+Pune&Gulburga Gadagh belt&134886.0&0.0&
+Thane&Nashik&71084.0&0.0&
+Sholapur&Vapi/Ankleshwar&84016.0&0.0&
+Sholapur&Hyderabad North&265275.0&0.0&
+Thane&Vapi/Ankleshwar&36460.0&0.0&
+Vapi/Ankleshwar&Thane&32035.0&31239.0&
+Nashik&Sholapur&1060.0&0.0&
+Pune&Chitradurg&80006.0&0.0&
+Chitradurg&Ahmednagar&145198.0&0.0&
+Chitradurg&Bangalore&9932.83333333&21621.4064946&
+Ahmednagar&Bangalore&421456.0&0.0&
+Salem&Chitradurg&60765.0&0.0&
+Bangalore&Chitradurg&33015.3333333&73297.3515271&
+Sholapur&Pune&69356.0&0.0&
+Hyderabad North&Sholapur&8171.0&0.0&
+Visakhapatnam, Kakinada&Hyderabad South&304842.0&0.0&
+Bangalore&Salem&70803.0&0.0&
+Hyderabad South&Hyderabad North&1325.0&0.0&
+Chitradurg&Chennai&649583.0&0.0&
+Hyderabad North&Chennai&137953.0&0.0&
+Pune&Sholapur&25201.0&2463.0&
+Hyderabad North&Hyderabad South&2038.0&0.0&
+Thane&Pune&12755.75&21882.6790279&
+Pune&Thane&148.833333333&145.722815265&
+Hyderabad South&Sholapur&179.0&146.0&
+Chennai&Thane&415960.0&0.0&
+Thane&Chennai&609648.0&0.0&
+Sholapur&Hyderabad North&80390.0&0.0&
+Hyderabad North&Thane&76281.0&0.0&
+Sholapur&Hyderabad South&18418.6666667&25965.2147604&
+Hyderabad South&Hyderabad North&4622.5&2217.5&
+Chitradurg&Bangalore&226169.0&0.0&
+Nashik&Vapi/Ankleshwar&74171.0&0.0&
+Sholapur&Thane&165983.0&0.0&
+Pune&Nashik&53694.0&0.0&
+Nashik&Chitradurg&102223.0&0.0&
+Sholapur&Pune&68209.0&0.0&
+Hyderabad North&Sholapur&64640.0&8355.0&
+Guntur&Vijayawada&1765.0&0.0&
+Vijayawada&Hyderabad South&283128.0&0.0&
+Hyderabad South&Hyderabad North&7136.5&4985.5&
+Bangalore&Guntur&50763.0&0.0&
+Vapi/Ankleshwar&Nashik&14156.0&0.0&
+Gwalior&Wazirpur&44008.0&0.0&
+Warangal&Noida&475613.0&0.0&
+Hyderabad North&Bangalore&218962.0&0.0&
+Bangalore&Warangal&328524.0&0.0&
+Wazirpur&Faridabad&534.0&0.0&
+Noida&Hyderabad South&562491.0&0.0&
+Jhansi&Gwalior&26447.0&16998.0&
+Wazirpur&Gwalior&163661.0&0.0&
+Faridabad&Wazirpur&43896.0&0.0&
+Gwalior&Jhansi&1880.0&0.0&
+Gwalior&Hyderabad North&242927.0&0.0&
+Aligarh&Ghaziabad&55594.0&0.0&
+Wazirpur&Noida&47294.0&0.0&
+Wazirpur&Hyderabad North&394431.0&0.0&
+Ghaziabad&Wazirpur&191319.0&0.0&
+Kannauj&Aligarh&78768.0&0.0&
+Faridabad&Agra&113.0&0.0&
+Vijayawada&Warangal&348622.0&0.0&
+Agra&Firozabad&8283.0&0.0&
+Kanpur&Kannauj&96228.0&0.0&
+Firozabad&Wazirpur&24816.0&0.0&
+Guntur&Vijayawada&2103.0&0.0&
+Noida&Faridabad&382.0&0.0&
+Warangal&Kanpur&156621.0&0.0&
+Hyderabad North&Burhanpur&71870.0&0.0&
+Gwalior&Agra&268.0&0.0&
+Agra&Gwalior&77.0&0.0&
+Kurnool&Hyderabad South&63546.0&0.0&
+Wazirpur&Faridabad&223.909090909&71.4683077193&
+Jhansi&Gwalior&19956.0&5714.0&
+Faridabad&Wazirpur&2633.16666667&8399.76217752&
+Noida&Wazirpur&92.0&0.0&
+Burhanpur&Indore&196804.0&0.0&
+Gwalior&Hyderabad North&134497.0&0.0&
+Kottayam&Kochi&3355.0&0.0&
+Palakkad&Alappuzha&10848.0&0.0&
+Alappuzha&Kurnool&80041.0&0.0&
+Kurnool&Palakkad&50049.0&0.0&
+Gwalior&Jhansi&10687.0&0.0&
+Kochi&Palakkad&21069.0&0.0&
+Coimbatore&Kochi&89227.0&0.0&
+Hyderabad North&Kurnool&33389.0&0.0&
+Agra&Wazirpur&77280.0&0.0&
+Wazirpur&Jhansi&135542.0&0.0&
+Kochi&Kottayam&8741.0&0.0&
+Palakkad&Coimbatore&20617.0&0.0&
+Wazirpur&Noida&434.5&226.5&
+Jhansi&Agra&52264.0&0.0&
+Indore&Sholapur&225899.0&0.0&
+Noida&Faridabad&307.0&0.0&
+Hyderabad South&Hyderabad North&720.0&0.0&
+Rajahmundry&Vijayawada&61472.0&0.0&
+Vijayawada&Guntur&1825.0&0.0&
+Hyderabad North&Kurnool&339381.0&0.0&
+Guntur&Kurnool&264438.0&0.0&
+Kurnool&Bangalore&420027.0&0.0&
+Bangalore&Thane&785088.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&62181.0&0.0&
+Guntur&Vijayawada&1749.0&0.0&
+Vijayawada&Rajahmundry&51460.0&0.0&
+Kurnool&Hyderabad North&87836.0&0.0&
+Rajahmundry&Visakhapatnam, Kakinada&43831.0&0.0&
+Hyderabad North&Chennai&61229.0&0.0&
+Chennai&Pondicherry&75990.0&0.0&
+Pune&Sholapur&83948.0&0.0&
+Pondicherry&Salem&80488.0&0.0&
+Tiruchirappalli&Karur&36121.0&0.0&
+Karur&Chennai&159855.0&0.0&
+Coimbatore&Tiruchirappalli&48698.0&0.0&
+Sholapur&Hyderabad North&71230.0&0.0&
+Salem&Coimbatore&60263.0&0.0&
+Chennai&Rajkot&1178876.0&0.0&
+Pune&Hyderabad North&43543.0&0.0&
+Pune&Sholapur&78338.0&0.0&
+Hyderabad North&Visakhapatnam, Kakinada&269975.5&125015.5&
+Sholapur&Pune&41723.0&37642.0&
+Hyderabad North&Sholapur&89537.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&58538.0&0.0&
+Rajahmundry&Hyderabad North&62981.0&0.0&
+Chitradurg&Bangalore&150907.0&0.0&
+Nashik&Vapi/Ankleshwar&1579.0&0.0&
+Vijayawada&Hyderabad North&274674.0&0.0&
+Thane&Pune&295.666666667&135.509737248&
+Pune&Thane&182.5&163.439846223&
+Sholapur&Thane&65213.0&0.0&
+Nashik&Chitradurg&237883.0&0.0&
+Hyderabad North&Sholapur&69367.0&0.0&
+Guntur&Vijayawada&1740.0&0.0&
+Thane&Hyderabad South&389984.0&0.0&
+Hyderabad South&Hyderabad North&403820.0&0.0&
+Bangalore&Guntur&154788.0&0.0&
+Vapi/Ankleshwar&Nashik&86341.5&86090.5&
+Pune&Chitradurg&189318.0&0.0&
+Chitradurg&Bangalore&91653.0&0.0&
+Bangalore&Chennai&55088.0&0.0&
+Sholapur&Pune&67888.0&0.0&
+Chitradurg&Pune&270433.0&0.0&
+Hyderabad North&Sholapur&21074.0&0.0&
+Bangalore&Chitradurg&79722.0&0.0&
+Guntur&Vijayawada&10841.0&0.0&
+Vijayawada&Hyderabad South&395828.0&0.0&
+Hyderabad South&Hyderabad North&1312.0&0.0&
+Chennai&Bangalore&242851.0&0.0&
+Pune&Bangalore&220832.0&0.0&
+Pune&Chitradurg&50043.0&0.0&
+Bangalore&Guntur&245371.0&0.0&
+Chitradurg&Bangalore&80564.0&0.0&
+Hyderabad North&Aurangabad&620310.0&0.0&
+Vapi/Ankleshwar&Chitradurg&226810.0&0.0&
+Kurnool&Hyderabad North&85319.0&0.0&
+Pardi&Surat&955.0&0.0&
+Surat&Pardi&11485.0&0.0&
+Surat&Vapi/Ankleshwar&21761.3&51686.4878514&
+Aurangabad&Dhule&66723.0&0.0&
+Dhule&Surat&10868.0&0.0&
+Vapi/Ankleshwar&Surat&559.555555556&359.906812356&
+Nagpur&Pune&682709.0&0.0&
+Yavatmal&Wardha&6274.0&0.0&
+Durg, Rajnandgaon, Raipur&Nagpur&51330.0&0.0&
+Raipur&Durg, Raipur&8334.0&4530.0&
+Sholapur&Yavatmal&88428.0&0.0&
+Durg, Raipur&Durg, Rajnandgaon, Raipur&2934.0&0.0&
+Durg, Raipur&Raipur&1539.0&0.0&
+Wardha&Raipur&160986.0&0.0&
+Hyderabad North&Nashik&171996.0&0.0&
+Nashik&Hyderabad South&785679.0&0.0&
+Pune&Belgaum&82961.0&0.0&
+Chennai&Guntur&82042.0&0.0&
+Tiruchirappalli&Karur&34194.0&0.0&
+Vijayawada&Hyderabad North&250181.0&0.0&
+Karur&Pondicherry&79483.0&0.0&
+Chitradurg&Chennai&132997.0&0.0&
+Sholapur&Pune&85867.0&0.0&
+Pondicherry&Chennai&83326.0&0.0&
+Hyderabad North&Sholapur&160093.0&0.0&
+Bangalore&Chitradurg&11050.0&0.0&
+Guntur&Vijayawada&1623.0&0.0&
+Dharwad&Hubli, Dharwad&720.0&0.0&
+Hubli, Dharwad&Bangalore&79862.0&0.0&
+Belgaum&Dharwad&7048.0&0.0&
+Hyderabad North&Guntur&356571.0&0.0&
+Chennai&Kurnool&164318.0&0.0&
+Aurangabad&Sholapur&266383.0&0.0&
+Kurnool&Aurangabad&254045.0&0.0&
+Vijayawada&Thane&912372.0&0.0&
+Sholapur&Hyderabad North&47810.0&0.0&
+Guntur&Vijayawada&18042.0&0.0&
+Thane&Pune&154991.0&0.0&
+Vijayawada&Bangalore&866662.0&0.0&
+Yavatmal&Wardha&5973.0&0.0&
+Hyderabad North&Hyderabad South&161441.0&0.0&
+Hyderabad South&Kurnool&21483.0&0.0&
+Kurnool&Bangalore&321843.0&0.0&
+Wardha&Hyderabad North&438476.0&0.0&
+Sholapur&Yavatmal&88395.0&0.0&
+Bangalore&Salem&264945.0&0.0&
+Salem&Vijayawada&263000.0&0.0&
+Pune&Chitradurg&54077.0&0.0&
+Vijayawada&Visakhapatnam, Kakinada&134111.0&0.0&
+Pune&Sholapur&78377.0&0.0&
+Chitradurg&Bangalore&75035.0&0.0&
+Hyderabad North&Sholapur&62352.5&2365.5&
+Sholapur&Pune&71595.0&1872.0&
+Sholapur&Hyderabad North&7676.0&0.0&
+Visakhapatnam, Kakinada&Rajahmundry&45849.0&0.0&
+Guntur&Vijayawada&14783.0&0.0&
+Bangalore&Guntur&324400.0&0.0&
+Mysore&Bangalore&58228.0&0.0&
+Agra&Jhansi&31338.5&31127.5&
+Wazirpur&Agra&149405.0&0.0&
+Bangalore&Kurnool&5922.0&0.0&
+Agra&Gwalior&13746.0&0.0&
+Jhansi&Agra&149.0&0.0&
+Hyderabad South&Agra&622166.0&0.0&
+Bangalore&Mysore&19124.0&0.0&
+Kurnool&Bangalore&31508.0&0.0&
+Hyderabad North&Bangalore&236991.0&0.0&
+Gwalior&Jhansi&18230.25&31011.929369&
+Jhansi&Gwalior&7517.66666667&10336.8307952&
+Jhansi&Kurnool&236118.0&0.0&
+Kurnool&Hyderabad North&9906.0&0.0&
+Bangalore&Hyderabad South&50085.0&0.0&
+Jhansi&Wazirpur&56781.0&0.0&
+Vijayawada&Bangalore&4474.0&0.0&
+Bangalore&Agra&687451.0&0.0&
+Agra&Noida&49180.0&0.0&
+Gwalior&Agra&409551.0&0.0&
+Agra&Gwalior&18656.0&2167.0&
+Jhansi&Agra&59079.0&0.0&
+Kurnool&Bangalore&191933.0&0.0&
+Bangalore&Guntur&75625.0&0.0&
+Guntur&Vijayawada&4500.0&0.0&
+Jhansi&Kurnool&226055.0&0.0&
+Gwalior&Jhansi&11314.5&1077.5&
+Noida&Gwalior&389294.0&0.0&
+Ahmednagar&Nashik&29714.0&0.0&
+Nashik&Hyderabad North&47718.0&0.0&
+Hyderabad South&Macherla&24281.0&0.0&
+Nashik&Vapi/Ankleshwar&150.0&139.0&
+Hyderabad North&Macherla&24804.0&0.0&
+Nashik&Ahmednagar&56961.0&0.0&
+Macherla&Hyderabad South&589290.0&0.0&
+Macherla&Hyderabad North&81687.0&0.0&
+Vapi/Ankleshwar&Nashik&131.0&116.630470576&
+Thane&Chitradurg&237509.0&0.0&
+Bangalore&Vijayawada&47528.0&0.0&
+Chitradurg&Bangalore&231712.0&0.0&
+Sholapur&Thane&77956.0&0.0&
+Thane&Pune&169.142857143&239.409349723&
+Pune&Thane&3128.73333333&10776.2424711&
+Guntur&Bangalore&3513.0&0.0&
+Nashik&Chitradurg&89854.0&0.0&
+Sholapur&Pune&71584.0&0.0&
+Hyderabad North&Sholapur&181537.0&0.0&
+Thane&Vapi/Ankleshwar&219707.0&0.0&
+Chitradurg&Thane&850205.0&0.0&
+Vijayawada&Hyderabad South&167057.0&0.0&
+Hyderabad South&Hyderabad North&1798.0&0.0&
+Bangalore&Guntur&34194.0&0.0&
+Vapi/Ankleshwar&Nashik&17326.0&0.0&
+Kurnool&Hyderabad North&101435.0&0.0&
+Hyderabad North&Kottayam&1261852.0&0.0&
+Sholapur&Chitradurg&440987.0&0.0&
+Chitradurg&Kurnool&433096.0&0.0&
+Hyderabad North&Guntur&106775.0&0.0&
+Pune&Sholapur&5562.0&0.0&
+Sholapur&Thane&157332.0&0.0&
+Thane&Pune&48865.0&0.0&
+Vijayawada&Hyderabad North&451355.0&0.0&
+Sholapur&Hyderabad North&81006.0&0.0&
+Hyderabad North&Thane&229170.0&0.0&
+Guntur&Vijayawada&57253.0&0.0&
+Thane&Sholapur&93145.0&0.0&
+Kanpur&Hyderabad North&279217.0&0.0&
+Hyderabad North&Meerut&568737.0&0.0&
+Pune&Sholapur&3793.0&0.0&
+Hyderabad North&Pune&132994.0&0.0&
+Thane&Pune&15720.3333333&22012.70891&
+Sholapur&Hyderabad North&55699.5&52333.5&
+Pune&Thane&18566.5&31794.393008&
+Nashik&Chitradurg&77000.0&0.0&
+Sholapur&Pune&256921.0&0.0&
+Thane&Nashik&74958.0&0.0&
+Hyderabad North&Sholapur&347247.0&0.0&
+Thane&Vapi/Ankleshwar&13072.0&0.0&
+Vapi/Ankleshwar&Thane&1642.0&0.0&
+Nashik&Vapi/Ankleshwar&11700.0&4670.0&
+Sholapur&Nashik&51524.3333333&72494.5100695&
+Nashik&Sholapur&97.0&90.0&
+Vapi/Ankleshwar&Hyderabad North&318179.0&0.0&
+Hyderabad North&Gulburga Gadagh belt&771427.0&0.0&
+Vapi/Ankleshwar&Nashik&250477.0&0.0&
+Vijayawada&Guntur&1705.0&0.0&
+Hyderabad North&Guntur&39.5&11.5&
+Salem&Coimbatore&48771.0&0.0&
+Chitradurg&Bangalore&189340.0&0.0&
+Sholapur&Thane&48352.0&0.0&
+Bangalore&Salem&83304.0&0.0&
+Thane&Pune&129.272727273&95.4759283409&
+Pune&Thane&179.636363636&101.327796354&
+Nashik&Chitradurg&154887.0&0.0&
+Hyderabad North&Sholapur&113527.0&0.0&
+Thane&Vapi/Ankleshwar&82701.0&0.0&
+Thane&Guntur&75954.0&0.0&
+Guntur&Hyderabad North&39731.25&68332.7255909&
+Hyderabad North&Vijayawada&1348.0&0.0&
+Vapi/Ankleshwar&Nashik&83392.0&0.0&
+Ahmednagar&Nashik&184.5&37.0528901257&
+Ahmednagar&Hyderabad North&65790.0&0.0&
+Nashik&Ahmednagar&132.333333333&50.5063252364&
+Pune&Thane&3043.0&0.0&
+Sholapur&Ahmednagar&3599.0&0.0&
+Sholapur&Pune&88704.0&0.0&
+Thane&Nashik&75226.0&0.0&
+Ahmednagar&Sholapur&22839.0&0.0&
+Hyderabad North&Sholapur&61563.0&0.0&
+Thane&Vapi/Ankleshwar&85662.0&49280.0&
+Vapi/Ankleshwar&Thane&352.0&0.0&
+Vapi/Ankleshwar&Ahmednagar&7935.0&0.0&
+Vijayawada&Guntur&37678.0&0.0&
+Hyderabad North&Guntur&884.0&0.0&
+Nashik&Vapi/Ankleshwar&21972.0&0.0&
+Sholapur&Thane&162949.0&0.0&
+Vapi/Ankleshwar&Sholapur&63258.0&0.0&
+Thane&Pune&6871.5&6012.5&
+Hyderabad North&Sholapur&65278.0&0.0&
+Pune&Thane&23875.6666667&14235.6576322&
+Bangalore&Vijayawada&228126.0&0.0&
+Vijayawada&Hyderabad North&260715.0&0.0&
+Thane&Bangalore&221647.0&0.0&
+Sholapur&Pune&26026.0&0.0&
+Thane&Nashik&129803.0&0.0&
+Sholapur&Hyderabad North&90104.0&0.0&
+Guntur&Vijayawada&1619.0&50.0&
+Hyderabad North&Chennai&486947.0&0.0&
+Ahmednagar&Hyderabad North&105848.0&0.0&
+Nashik&Vapi/Ankleshwar&19449.0&0.0&
+Vapi/Ankleshwar&Sholapur&59228.0&0.0&
+Sholapur&Ahmednagar&5948.0&0.0&
+Vapi/Ankleshwar&Nashik&56971.0&0.0&
+Chitradurg&Bangalore&249592.0&0.0&
+Nashik&Vapi/Ankleshwar&22014.0&0.0&
+Thane&Pune&389089.0&0.0&
+Nashik&Chitradurg&131517.0&0.0&
+Hyderabad North&Thane&590161.0&0.0&
+Kurnool&Hyderabad North&108647.0&0.0&
+Bangalore&Kurnool&138613.0&0.0&
+Vapi/Ankleshwar&Nashik&73897.5&56800.5&
+Kanpur&Lucknow&1253601.0&0.0&
+Hyderabad North&Chennai&237237.0&0.0&
+Pune&Sholapur&25585.0&0.0&
+Chennai&Hyderabad South&137153.0&0.0&
+Thane&Pune&53979.0&0.0&
+Pune&Thane&8777.0&0.0&
+Sholapur&Hyderabad North&85098.0&0.0&
+Pune&Belgaum&1337.0&0.0&
+Hubli, Dharwad&Kolhapur&13680.0&0.0&
+Vijayawada&Hyderabad North&362208.0&0.0&
+Hyderabad North&Hyderabad South&3419.0&0.0&
+Belgaum&Dharwad&5640.0&0.0&
+Hyderabad South&Guntur&138377.0&0.0&
+Bangalore&Ahmedabad&664638.0&0.0&
+Shimoga&Bangalore&334354.0&0.0&
+Sholapur&Pune&52101.0&0.0&
+Dharwad&Hubli, Dharwad&780.0&0.0&
+Hyderabad North&Sholapur&65042.0&0.0&
+Guntur&Vijayawada&1380.0&0.0&
+Kolhapur&Shimoga&86727.0&0.0&
+Hyderabad North&Kurnool&444467.0&0.0&
+Hyderabad North&Aurangabad&104253.0&0.0&
+Bangalore&Coimbatore&137491.0&0.0&
+Vijayawada&Ahmedabad&830283.0&0.0&
+Aurangabad&Chitradurg&326615.0&0.0&
+Chitradurg&Bangalore&95395.0&0.0&
+Guntur&Vijayawada&14830.0&0.0&
+Kurnool&Hyderabad North&68557.0&0.0&
+Coimbatore&Guntur&188679.0&0.0&
+Pune&Hyderabad North&63718.0&0.0&
+Hyderabad North&Chennai&65184.0&0.0&
+Hyderabad North&Guntur&168953.0&0.0&
+Pune&Sholapur&72.0&30.2434565926&
+Chennai&Hyderabad North&238402.0&0.0&
+Vijayawada&Hyderabad North&310591.0&0.0&
+Thane&Pune&12244.9&26203.1333449&
+Pune&Thane&148.777777778&85.4176377542&
+Sholapur&Thane&51016.0&0.0&
+Sholapur&Pune&318.0&26.7332502077&
+Hyderabad North&Sholapur&118374.0&0.0&
+Guntur&Vijayawada&1652.0&0.0&
+Gulburga Gadagh belt&Belgaum&169843.0&233658.857244&
+Belgaum&Gulburga Gadagh belt&273807.666667&276678.015501&
+Chennai&Guntur&161788.0&0.0&
+Vijayawada&Hyderabad North&431274.0&0.0&
+Pune&Thane&21780.0&0.0&
+Sholapur&Pune&83526.0&0.0&
+Thane&Nashik&53150.0&0.0&
+Hyderabad North&Sholapur&62617.0&0.0&
+Thane&Vapi/Ankleshwar&25718.0&0.0&
+Guntur&Vijayawada&2480.0&0.0&
+Vapi/Ankleshwar&Thane&3581.0&0.0&
+Hyderabad North&Kurnool&27935.3333333&28656.0756598&
+Ahmednagar&Ahmedabad&511237.0&0.0&
+Kurnool&Sholapur&177573.0&0.0&
+Pune&Ahmednagar&49792.0&0.0&
+Sholapur&Pune&74146.0&0.0&
+Ahmedabad&Bangalore&499798.0&0.0&
+Kurnool&Hyderabad North&301764.5&35525.5&
+Pune&Chitradurg&168859.0&0.0&
+Chitradurg&Bangalore&48022.0&0.0&
+Vijayawada&Hyderabad North&169561.0&0.0&
+Sholapur&Kurnool&1189366.0&0.0&
+Chitradurg&Pune&181984.0&0.0&
+Hyderabad North&Sholapur&70668.0&0.0&
+Guntur&Vijayawada&2101.0&0.0&
+Kurnool&Hyderabad North&108933.0&0.0&
+Bangalore&Guntur&154785.0&0.0&
+Chitradurg&Bangalore&113568.0&0.0&
+Chitradurg&Sholapur&333893.0&0.0&
+Hyderabad North&Jalna&398693.0&0.0&
+Hyderabad North&Mysore&970822.0&0.0&
+Jalna&Hyderabad North&60720.0&0.0&
+Sholapur&Hyderabad North&61348.0&0.0&
+Bangalore&Chitradurg&89068.0&0.0&
+Mysore&Chitradurg&57515.0&0.0&
+Nashik&Pardi&234.6&117.535696705&
+Hyderabad North&Hyderabad South&453286.0&199069.0&
+Pardi&Vapi/Ankleshwar&1368.0&0.0&
+Hyderabad North&Sholapur&173984.0&0.0&
+Pune&Thane&216238.0&0.0&
+Sholapur&Nashik&41764.5&41629.5&
+Sholapur&Pune&73456.0&0.0&
+Nashik&Sholapur&238.0&5.0&
+Pardi&Nashik&134.75&83.2297272614&
+Sholapur&Hyderabad North&135735.5&62327.5&
+Hyderabad South&Hyderabad North&1958.0&0.0&
+Thane&Sholapur&232090.0&0.0&
+Vapi/Ankleshwar&Nashik&17405.0&0.0&
+Chitradurg&Chennai&152330.333333&136121.29925&
+Hubli, Dharwad&Chitradurg&98420.0&0.0&
+Hubli, Dharwad&Dharwad&900.0&60.0&
+Bangalore&Hubli, Dharwad&92142.0&0.0&
+Hubli, Dharwad&Chennai&132655.0&0.0&
+Bangalore&Chennai&23812.0&0.0&
+Dharwad&Hubli, Dharwad&716.0&64.0&
+Dharwad&Chitradurg&12209.0&5582.0&
+Chennai&Hubli, Dharwad&60367.0&0.0&
+Chennai&Chitradurg&116269.0&72225.0&
+Chennai&Bangalore&34022.5&21598.5&
+Chitradurg&Dharwad&77160.5&66041.5&
+Gulburga Gadagh belt&Belgaum&68564.5&21064.5&
+Belgaum&Gulburga Gadagh belt&73338.0&9492.0&
+Gulburga Gadagh belt&Belgaum&60831.1428571&122062.990953&
+Belgaum&Gulburga Gadagh belt&23306.4285714&36719.1972207&
+Pune&Chitradurg&133418.0&0.0&
+Tiruchirappalli&Palakkad&5091.0&0.0&
+Chitradurg&Bangalore&14800.0&20645.4022162&
+Karur&Tiruchirappalli&7058.0&0.0&
+Salem&Belgaum&44919.0&0.0&
+Salem&Sholapur&67723.0&0.0&
+Vadodara&Rajkot&152414.0&0.0&
+Belgaum&Hubli, Dharwad&33260.0&0.0&
+Hubli, Dharwad&Dharwad&720.0&0.0&
+Rajkot&Chennai&680926.0&0.0&
+Palakkad&Bangalore&244429.0&0.0&
+Kottayam&Karur&68009.0&0.0&
+Bangalore&Chitradurg&172.5&27.5&
+Sholapur&Vadodara&190020.0&0.0&
+Bangalore&Salem&170032.0&154718.0&
+Dharwad&Pune&82106.0&0.0&
+Panipat&Karnal&3824.0&338.0&
+Agra&Jhansi&262.0&0.0&
+Gwalior&Agra&16727.0&0.0&
+Jhansi&Wazirpur&1087540.0&0.0&
+Samalkha&Panipat&841.5&96.5&
+Agra&Gwalior&22236.0&0.0&
+Jhansi&Agra&638.0&0.0&
+Karnal&Panipat&2472.0&0.0&
+Wazirpur&Samalkha&3143.0&0.0&
+Gwalior&Samalkha&74013.0&0.0&
+Hyderabad North&Jhansi&141432.0&0.0&
+Samalkha&Gwalior&166150.0&0.0&
+Jhansi&Gwalior&43779.0&0.0&
+Kurnool&Hyderabad North&28509.0&0.0&
+Gwalior&Jhansi&8396.0&0.0&
+Panipat&Samalkha&1108.0&0.0&
+Hyderabad North&Hyderabad South&37432.0&0.0&
+Jhalawar&Dewas&166161.0&0.0&
+Nanded&Hyderabad North&101644.0&0.0&
+Guntur&Vijayawada&3189.0&0.0&
+Burhanpur&Indore&108.0&12.0&
+Hyderabad South&Indore&63920.0&0.0&
+Kota&Alwar&90101.0&0.0&
+Kota&Jhalawar&14709.0&0.0&
+Jhalawar&Kota&13311.0&0.0&
+Hyderabad North&Guntur&7792.0&0.0&
+Indore&Burhanpur&14758.0&25152.8461908&
+Burhanpur&Nanded&79343.0&0.0&
+Hyderabad South&Nanded&210.5&0.5&
+Alwar&Kota&67792.0&0.0&
+Ujjain&Jhalawar&57548.0&0.0&
+Nanded&Hyderabad South&149.5&2.5&
+Burhanpur&Ujjain&2615.0&0.0&
+Gurgaon&Wazirpur&43779.0&0.0&
+Wazirpur&Gurgaon&931044.0&0.0&
+Alwar&Gurgaon&90252.0&0.0&
+Dewas&Indore&2468.0&0.0&
+Vijayawada&Hyderabad South&344844.0&0.0&
+Hyderabad South&Hyderabad North&47547.0&0.0&
+Jhalawar&Dewas&166144.0&0.0&
+Indore&Burhanpur&58304.0&0.0&
+Burhanpur&Nanded&79364.0&0.0&
+Hyderabad North&Hyderabad South&38525.0&0.0&
+Burhanpur&Kota&67357.0&0.0&
+Wazirpur&Burhanpur&828598.0&0.0&
+Kota&Wazirpur&162809.0&0.0&
+Hyderabad South&Nanded&603239.0&0.0&
+Alwar&Kota&67780.0&0.0&
+Dewas&Indore&2128.0&0.0&
+Kota&Jhalawar&14715.0&0.0&
+Nanded&Hyderabad South&202947.0&0.0&
+Hyderabad South&Hyderabad North&47571.0&0.0&
+Nanded&Burhanpur&77173.0&0.0&
+Dhule&Vadodara&86923.0&0.0&
+Vadodara&Ahmedabad&8006.0&0.0&
+Bangalore&Dhule&485314.0&0.0&
+Pardi&Thane&224.5&13.5&
+Dhule&Chotila&102728.0&0.0&
+Nashik&Vapi/Ankleshwar&22219.0&0.0&
+Vapi/Ankleshwar&Sholapur&63560.0&0.0&
+Hyderabad North&Sholapur&263477.0&0.0&
+Vadodara&Thane&82647.0&0.0&
+Pune&Bangalore&442569.0&0.0&
+Chotila&Rajkot&88094.0&0.0&
+Sholapur&Pune&71784.0&0.0&
+Ahmedabad&Vadodara&166990.0&0.0&
+Sholapur&Hyderabad North&93298.0&0.0&
+Thane&Vapi/Ankleshwar&5830.25&18759.5385032&
+Vapi/Ankleshwar&Thane&165.090909091&109.534099751&
+Thane&Pardi&75.5&13.5&
+Vapi/Ankleshwar&Nashik&51602.0&0.0&
+Pune&Sholapur&3235.0&0.0&
+Sholapur&Thane&152507.0&0.0&
+Thane&Pune&90963.0&43754.0&
+Hyderabad North&Thane&486668.0&0.0&
+Pune&Chennai&500037.0&0.0&
+Sholapur&Hyderabad North&162861.0&0.0&
+Vijayawada&Sholapur&322713.0&0.0&
+Guntur&Vijayawada&88049.0&0.0&
+Hyderabad North&Hyderabad South&20869.0&17757.0&
+Hyderabad South&Guntur&345201.0&0.0&
+Hyderabad North&Chitradurg&423331.0&0.0&
+Guntur&Vijayawada&9095.0&0.0&
+Vijayawada&Hyderabad South&312776.0&0.0&
+Hyderabad South&Hyderabad North&92646.0&63521.0805324&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&1973.0&0.0&
+Dhule&Nashik&15870.0&0.0&
+Durg, Raipur&Raipur&3958.0&0.0&
+Durg, Raipur&Amravati&82859.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Thane&561835.0&0.0&
+Dhenkanal&Durg, Rajnandgaon, Raipur&173091.0&0.0&
+Raipur&Dhenkanal&157468.0&0.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&75054.0&0.0&
+Nashik&Thane&63333.0&0.0&
+Dhenkanal&Cuttack&2560.0&0.0&
+Raipur&Durg, Raipur&2660.0&0.0&
+Nagpur&Durg, Raipur&190.666666667&19.1891172862&
+Durg, Rajnandgaon, Raipur&Raipur&31570.0&0.0&
+Amravati&Nagpur&2612.0&0.0&
+Thane&Durg, Rajnandgaon, Raipur&135903.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Dhenkanal&44445.0&0.0&
+Nagpur&Dhule&48164.0&0.0&
+Durg, Raipur&Nagpur&151.333333333&4.64279609239&
+Palakkad&Kottayam&142275.0&0.0&
+Hyderabad North&Kurnool&47416.5&37072.5&
+Kurnool&Nashik&1007292.0&0.0&
+Kottayam&Kochi&5533.0&0.0&
+Hyderabad North&Hyderabad South&23648.0&23501.0&
+Kurnool&Salem&69682.0&0.0&
+Salem&Palakkad&98505.0&0.0&
+Kochi&Palakkad&78578.0&0.0&
+Salem&Hyderabad North&87251.0&0.0&
+Palakkad&Salem&74013.0&0.0&
+Kurnool&Hyderabad North&92770.0&0.0&
+Hyderabad South&Hyderabad North&143058.0&108715.0&
+Hyderabad North&Guntur&674251.0&0.0&
+Pondicherry&Hyderabad North&690846.0&0.0&
+Hyderabad North&Chitradurg&423618.0&0.0&
+Chitradurg&Bangalore&1711.0&0.0&
+Bangalore&Pondicherry&328776.0&0.0&
+Thane&Nashik&661515.0&0.0&
+Hyderabad North&Pune&76317.0&0.0&
+Pune&Kolhapur&78292.0&0.0&
+Hubli, Dharwad&Dharwad&962.0&0.0&
+Kolhapur&Belgaum&15829.0&0.0&
+Pune&Dharwad&84742.0&0.0&
+Pune&Thane&88225.0&0.0&
+Hyderabad South&Sholapur&274.0&56.5685424949&
+Belgaum&Pune&37623.5&36331.5&
+Dharwad&Hubli, Dharwad&647.0&0.0&
+Sholapur&Hyderabad North&2874.0&0.0&
+Visakhapatnam, Kakinada&Hyderabad South&315874.0&0.0&
+Sholapur&Hyderabad South&66.0&0.0&
+Rajahmundry&Visakhapatnam, Kakinada&27281.0&0.0&
+Dharwad&Belgaum&98570.0&0.0&
+Vadodara&Ahmedabad&7933.0&0.0&
+Hyderabad North&Aurangabad&88679.0&0.0&
+Chitradurg&Bangalore&240165.0&0.0&
+Vapi/Ankleshwar&Vadodara&55.0&0.0&
+Aurangabad&Dhule&84070.0&0.0&
+Pardi&Vapi/Ankleshwar&1301.0&0.0&
+Vadodara&Vapi/Ankleshwar&481.0&0.0&
+Aurangabad&Vadodara&68470.0&0.0&
+Nashik&Chitradurg&150103.0&0.0&
+Ahmedabad&Pardi&44553.0&0.0&
+Dhule&Aurangabad&1914.0&0.0&
+Vapi/Ankleshwar&Nashik&15897.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&6000.0&4972.09700898&
+Aurangabad&Jalna&32087.0&0.0&
+Raipur&Nagpur&155.666666667&62.0984880832&
+HMC & Bally Municipal area Sevok Rd&Cuttack&76713.0&0.0&
+Raipur&Dhenkanal&18686.0&0.0&
+Aurangabad&Wardha&8410.0&0.0&
+Dhenkanal&Raipur&101477.0&0.0&
+Nagpur&Raipur&135150.333333&190777.887259&
+Cuttack&Durg, Raipur&7027.0&0.0&
+Durg, Raipur&Thane&495937.0&0.0&
+Dhenkanal&Cuttack&7301.0&0.0&
+Cuttack&Dhenkanal&3436.0&0.0&
+Raipur&Durg, Raipur&3128.0&0.0&
+Durg, Raipur&HMC & Bally Municipal area Sevok Rd&64238.0&0.0&
+Wardha&Durg, Rajnandgaon, Raipur&51549.5&44652.5&
+Durg, Raipur&Aurangabad&50820.0&0.0&
+Thane&Aurangabad&57857.0&0.0&
+Durg, Raipur&Raipur&2521.5&482.5&
+Jalna&Thane&46289.0&0.0&
+Raipur&Wardha&68041.0&0.0&
+Chitradurg&Bangalore&17589.0&0.0&
+Bangalore&Chennai&77820.0&0.0&
+Chennai&Thane&1458631.0&0.0&
+Hyderabad North&Sholapur&82537.0&0.0&
+Bangalore&Chitradurg&7146.0&0.0&
+Guntur&Vijayawada&47529.0&0.0&
+Vijayawada&Hyderabad South&77372.0&0.0&
+Sholapur&Bangalore&222950.0&0.0&
+Hyderabad South&Hyderabad North&2305.0&0.0&
+Thane&Belgaum&148901.0&0.0&
+Hyderabad North&Pune&76490.0&0.0&
+Chitradurg&Bangalore&136669.0&0.0&
+Nashik&Vapi/Ankleshwar&64370.0&0.0&
+Sholapur&Thane&171797.0&0.0&
+Belgaum&Dharwad&5977.0&0.0&
+Pune&Nashik&93069.0&0.0&
+Nashik&Chitradurg&173834.0&0.0&
+Dharwad&Hubli, Dharwad&1419.0&0.0&
+Sholapur&Hyderabad North&1925.0&0.0&
+Vijayawada&Sholapur&414057.0&0.0&
+Guntur&Vijayawada&1688.0&0.0&
+Bangalore&Guntur&62619.0&0.0&
+Vapi/Ankleshwar&Nashik&30745.0&0.0&
+Gulburga Gadagh belt&Belgaum&170008.166667&207317.837137&
+Belgaum&Gulburga Gadagh belt&44636.8&67035.8272371&
+Hyderabad North&Kurnool&17282.0&0.0&
+Nashik&Aurangabad&6082.0&0.0&
+Vadodara&Chotila&27914.0&0.0&
+Vadodara&Pardi&100988.0&0.0&
+Chotila&Vadodara&85220.0&0.0&
+Chotila&Rajkot&76356.0&72815.0&
+Aurangabad&Vadodara&53812.0&0.0&
+Aurangabad&Hyderabad South&151373.0&0.0&
+Kurnool&Dhule&158216.0&0.0&
+Rajkot&Chotila&35969.5&23618.5&
+Pardi&Vapi/Ankleshwar&1380.0&0.0&
+Dhule&Aurangabad&16804.0&0.0&
+Vapi/Ankleshwar&Nashik&59415.0&0.0&
+Chitradurg&Bangalore&88532.0&0.0&
+Vijayawada&Hyderabad North&241463.0&0.0&
+Thane&Pune&123.6&82.507211806&
+Vijayawada&Thane&495113.0&0.0&
+Pune&Thane&232.0&111.699000294&
+Thane&Hyderabad North&595796.0&0.0&
+Nashik&Chitradurg&179536.0&0.0&
+Sholapur&Pune&76708.0&0.0&
+Hyderabad North&Sholapur&79974.0&0.0&
+Thane&Vapi/Ankleshwar&55607.0&0.0&
+Guntur&Vijayawada&44460.0&43290.0&
+Bangalore&Guntur&164063.0&0.0&
+Vapi/Ankleshwar&Nashik&14960.0&0.0&
+Pardi&Thane&490.0&259.738329863&
+Thane&Kishangarh&154064.0&0.0&
+Jaipur&Kishangarh&488395.5&481437.5&
+Pardi&Vapi/Ankleshwar&1044.0&0.0&
+Kishangarh&Thane&132991.0&0.0&
+Pardi&Jaipur&141437.0&0.0&
+Vapi/Ankleshwar&Pardi&1166.0&0.0&
+Faridabad&Noida&2895.0&8929.99353949&
+Faridabad&Jaipur&75155.0&0.0&
+Kishangarh&Jaipur&9771.0&0.0&
+Thane&Vapi/Ankleshwar&25921.6666667&36269.2011155&
+Vapi/Ankleshwar&Thane&27255.0&38176.7286795&
+Thane&Pardi&298.333333333&213.31406163&
+Noida&Faridabad&3654.42857143&12216.5669992&
+Jaipur&Noida&54588.0&0.0&
+Kishangarh&Faridabad&58621.0&0.0&
+Hyderabad North&Kurnool&79086.0&0.0&
+Chennai&Hyderabad South&88124.0&0.0&
+Chennai&Hyderabad North&483904.0&0.0&
+Salem&Bangalore&4898.0&0.0&
+Bangalore&Chennai&130356.0&0.0&
+Kurnool&Bangalore&66660.0&0.0&
+Bangalore&Salem&13950.0&0.0&
+Hyderabad South&Hyderabad North&8752.0&0.0&
+Hyderabad North&Chennai&580076.0&0.0&
+Chennai&Bangalore&62678.0&0.0&
+Bangalore&Hyderabad South&348881.0&0.0&
+Hyderabad South&Hyderabad North&5675.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&1800.0&10.0&
+Thane&Durg, Rajnandgaon, Raipur&398542.0&0.0&
+Raipur&Dhenkanal&154728.0&0.0&
+Raipur&Cuttack&156875.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&2813.0&0.0&
+Thane&Dhule&155.0&4.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&84055.0&0.0&
+Nashik&Thane&235.0&291.551024694&
+Durg, Raipur&Dhule&170114.0&0.0&
+Dhenkanal&Cuttack&2680.0&0.0&
+Cuttack&Dhenkanal&38482.0&0.0&
+Raipur&Durg, Raipur&2590.0&0.0&
+Thane&Nashik&11078.5&18574.3138837&
+Dhule&Thane&24741.0&34716.1148748&
+HMC & Bally Municipal area Sevok Rd&Raipur&394550.0&0.0&
+Wardha&Nagpur&5739.0&0.0&
+Durg, Raipur&Raipur&2756.5&73.5&
+Nashik&Wardha&139384.0&0.0&
+Wazirpur&Noida&263.5&126.5&
+Agra&Jhansi&2110.0&0.0&
+Chennai&Hyderabad South&141985.0&0.0&
+Noida&Faridabad&408.0&0.0&
+Faridabad&Wazirpur&20568.0&20843.0272873&
+Wazirpur&Jhansi&601774.0&0.0&
+Noida&Wazirpur&223.0&0.0&
+Jhansi&Hyderabad North&595556.0&0.0&
+Gwalior&Faridabad&199.875&96.8806449968&
+Wazirpur&Faridabad&122.5&24.5&
+Jhansi&Gwalior&15643.0&0.0&
+Faridabad&Gwalior&131.142857143&75.5445536875&
+Kurnool&Chennai&60736.0&0.0&
+Hyderabad North&Agra&228044.0&0.0&
+Hyderabad South&Hyderabad North&47147.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&3473.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Cuttack&116579.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&14440.0&0.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&49515.0&0.0&
+Dhenkanal&Cuttack&3495.0&0.0&
+Durg, Rajnandgaon, Raipur&Nagpur&324445.0&0.0&
+Cuttack&Dhenkanal&49205.5&12314.5&
+Raipur&Durg, Raipur&3774.0&0.0&
+Dhenkanal&Thane&1023813.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Raipur&248143.0&0.0&
+Durg, Raipur&Durg, Rajnandgaon, Raipur&3034.0&0.0&
+Durg, Raipur&Raipur&2103.0&0.0&
+Raipur&Cuttack&138126.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&3447.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&14834.0&0.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&48702.0&0.0&
+Dhenkanal&Cuttack&3555.0&0.0&
+Durg, Rajnandgaon, Raipur&Nagpur&157984.0&0.0&
+Cuttack&Dhenkanal&36935.0&0.0&
+Raipur&Durg, Raipur&3125.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Aurangabad&502658.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Raipur&235628.0&0.0&
+Durg, Raipur&Durg, Rajnandgaon, Raipur&3036.0&0.0&
+Aurangabad&Thane&145263.0&0.0&
+Durg, Raipur&Raipur&2507.0&0.0&
+Raipur&Cuttack&137767.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&6125.0&0.0&
+Dhule&Nashik&15885.0&0.0&
+Durg, Raipur&Amravati&83206.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&69911.0&0.0&
+Durg, Rajnandgaon, Raipur&Raipur&31568.0&0.0&
+Nashik&Thane&10545.1666667&23140.6551507&
+Thane&Amravati&59896.0&0.0&
+Raipur&Thane&1175303.0&0.0&
+Dhule&Thane&2738.0&0.0&
+Raipur&Durg, Raipur&2680.0&0.0&
+Thane&Nashik&163.4&89.8033406951&
+Nagpur&Durg, Raipur&203.333333333&4.9888765157&
+Thane&Dhule&5840.0&0.0&
+Amravati&Nagpur&11063.5&8414.5&
+Durg, Raipur&Raipur&2124.0&0.0&
+Nagpur&Dhule&48159.0&0.0&
+Durg, Raipur&Nagpur&173.0&62.2468205346&
+Hyderabad North&Pune&71090.0&0.0&
+Hyderabad North&Sholapur&55395.0&0.0&
+Pune&Hyderabad North&1029497.0&0.0&
+Sholapur&Hyderabad North&27921.0&0.0&
+Guntur&Vijayawada&1739.0&0.0&
+Vijayawada&Hyderabad South&344361.0&0.0&
+Hyderabad South&Hyderabad North&48596.0&0.0&
+Bangalore&Guntur&251707.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&3075.0&0.0&
+Raipur&HMC & Bally Municipal area Sevok Rd&175294.0&0.0&
+Raipur&Durg, Rajnandgaon, Raipur&72469.0&0.0&
+Durg, Raipur&Wardha&47274.0&0.0&
+Nagpur&Durg, Rajnandgaon, Raipur&12554.0&0.0&
+Thane&Dhule&640.0&558.0&
+Nashik&Thane&32836.0&10661.0&
+Durg, Rajnandgaon, Raipur&Nagpur&121958.0&107535.0&
+Dhule&Thane&476.5&341.5&
+Raipur&Durg, Raipur&2431.0&0.0&
+Thane&Nashik&2956.0&0.0&
+Nagpur&Durg, Raipur&659.0&0.0&
+Wardha&Nagpur&36985.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Raipur&166349.0&0.0&
+Durg, Raipur&Durg, Rajnandgaon, Raipur&1940.0&0.0&
+Nagpur&Nashik&46356.0&0.0&
+Durg, Raipur&Raipur&2768.0&0.0&
+Pune&Chitradurg&64910.0&0.0&
+Chitradurg&Bangalore&67027.0&0.0&
+Vijayawada&Hyderabad North&362546.0&0.0&
+Hyderabad South&Guntur&130088.0&0.0&
+Sholapur&Pune&51395.0&0.0&
+Hyderabad North&Sholapur&65046.0&0.0&
+Guntur&Vijayawada&1380.0&0.0&
+Nashik&Vapi/Ankleshwar&175146.0&0.0&
+Sholapur&Nashik&78201.0&0.0&
+Nashik&Chitradurg&155544.0&0.0&
+Hyderabad North&Sholapur&97547.0&0.0&
+Hyderabad South&Hyderabad North&2800.0&0.0&
+Vapi/Ankleshwar&Nashik&86574.0&0.0&
+Hyderabad North&Nashik&74364.0&0.0&
+Hyderabad North&Guntur&375842.0&0.0&
+Guntur&Thane&577784.0&0.0&
+Nashik&Vapi/Ankleshwar&17903.5&4519.5&
+Vapi/Ankleshwar&Hyderabad North&55253.0&0.0&
+Sholapur&Hyderabad South&3519.0&0.0&
+Hyderabad South&Hyderabad North&3661.0&0.0&
+Vapi/Ankleshwar&Nashik&168492.0&0.0&
+Hubli, Dharwad&Kolhapur&19604.0&0.0&
+Vijayawada&Hyderabad North&61543.0&0.0&
+Pune&Dharwad&48308.0&0.0&
+Chennai&Coimbatore&62263.0&0.0&
+Bangalore&Chennai&530701.0&0.0&
+Sholapur&Pune&56466.0&0.0&
+Dharwad&Hubli, Dharwad&1175.0&0.0&
+Chitradurg&Belgaum&8272.0&0.0&
+Hyderabad North&Sholapur&96488.0&0.0&
+Guntur&Vijayawada&47504.0&0.0&
+Kolhapur&Chitradurg&6797.0&0.0&
+Belgaum&Bangalore&77152.0&0.0&
+Jabalpur&Hyderabad North&132900.0&0.0&
+Hyderabad North&Visakhapatnam, Kakinada&1432796.0&0.0&
+Hyderabad North&Jabalpur&102434.0&0.0&
+Varanasi&Jabalpur&162447.0&0.0&
+Jabalpur&Varanasi&137488.0&0.0&
+Kurnool&Hyderabad North&173776.0&0.0&
+Pune&Chitradurg&49675.0&0.0&
+Chitradurg&Bangalore&96234.0&0.0&
+Thane&Pune&20953.0&35926.5195295&
+Pune&Thane&13088.75&22476.0945381&
+Sholapur&Pune&90290.0&0.0&
+Hyderabad North&Sholapur&83683.0&0.0&
+Kurnool&Warangal&597806.0&0.0&
+Bangalore&Kurnool&83839.0&0.0&
+Hyderabad North&Guntur&342248.0&0.0&
+Chitradurg&Bangalore&11814.0&0.0&
+Bangalore&Pune&310593.0&0.0&
+Kurnool&Bangalore&317716.0&0.0&
+Pune&Hyderabad North&79941.0&0.0&
+Bangalore&Chitradurg&28741.0&0.0&
+Chennai&Guntur&72074.0&0.0&
+Vijayawada&Hyderabad North&244644.0&0.0&
+Thane&Pune&236.125&95.5803817475&
+Pune&Thane&175.0&207.374058165&
+Sholapur&Pune&76607.0&0.0&
+Hyderabad North&Sholapur&162115.0&0.0&
+Guntur&Vijayawada&1800.0&0.0&
+Dhule&Vadodara&74725.0&0.0&
+Vijayawada&Guntur&38433.0&0.0&
+Hyderabad North&Guntur&132998.0&0.0&
+Hyderabad North&Aurangabad&88036.0&0.0&
+Vadodara&Dhule&75204.0&0.0&
+Guntur&Vijayawada&24393.5&22860.5&
+Aurangabad&Hyderabad North&59084.0&0.0&
+Vijayawada&Chitradurg&604300.0&0.0&
+Aurangabad&Dhule&95794.0&0.0&
+Dhule&Aurangabad&94622.0&0.0&
+Rajahmundry&Vijayawada&145.96&104.256406997&
+Chennai&Rajahmundry&216542.0&0.0&
+Hyderabad North&Hyderabad South&3774.0&0.0&
+Rajahmundry&Hyderabad South&147745.0&0.0&
+Rajahmundry&Guntur&294.571428571&106.965758397&
+Guntur&Rajahmundry&102.285714286&106.644555531&
+Chennai&Hyderabad South&162675.0&0.0&
+Vijayawada&Rajahmundry&220.68&110.38323061&
+Hyderabad South&Hyderabad North&3055.0&0.0&
+Hyderabad South&Chennai&290926.0&243021.0&
+Coimbatore&Kochi&41742.5&38841.5&
+Hyderabad North&Pune&328806.0&0.0&
+Kochi&Kurnool&62092.0&0.0&
+Kurnool&Salem&113043.0&0.0&
+Salem&Palakkad&36063.0&25509.0&
+Kochi&Kottayam&6387.0&0.0&
+Pune&Sholapur&14444.0&0.0&
+Kottayam&Salem&66163.0&0.0&
+Palakkad&Coimbatore&21098.0&6609.0&
+Kurnool&Hyderabad North&94503.0&0.0&
+Sholapur&Pune&68621.0&0.0&
+Mysore&Bangalore&13166.0&0.0&
+Bangalore&Chitradurg&25911.0&0.0&
+Chitradurg&Pune&60441.0&0.0&
+Vijayawada&Hyderabad North&261497.0&0.0&
+Guntur&Vijayawada&2339.0&0.0&
+Hyderabad North&Guntur&530889.0&0.0&
+Bangalore&Hyderabad North&63360.0&0.0&
+Hubli, Dharwad&Sholapur&67673.0&0.0&
+Hyderabad North&Chennai&43496.0&0.0&
+Belgaum&Thane&141286.0&0.0&
+Pune&Sholapur&71783.0&0.0&
+Hubli, Dharwad&Dharwad&254.571428571&476.428035982&
+Kolhapur&Thane&192.0&0.0&
+Hyderabad South&Hyderabad North&38672.0&0.0&
+Pune&Thane&187.32&143.511593957&
+Thane&Pune&1828.53846154&8311.29107452&
+Thane&Kolhapur&108.0&0.0&
+Thane&Hubli, Dharwad&43839.0&0.0&
+Sholapur&Pune&10092.0&0.0&
+Belgaum&Hubli, Dharwad&138.0&10.0&
+Pune&Hyderabad South&131408.0&0.0&
+Hyderabad South&Thane&908462.0&0.0&
+Chennai&Hyderabad North&45228.0&0.0&
+Dharwad&Hubli, Dharwad&5408.71428571&12684.3314787&
+Hyderabad North&Hyderabad South&37705.0&0.0&
+Sholapur&Belgaum&1891.0&0.0&
+Hubli, Dharwad&Belgaum&162.0&10.0&
+Hubli, Dharwad&Chitradurg&19186.0&0.0&
+Mangalore&Dharwad&168491.0&0.0&
+Chitradurg&Bangalore&50730.3333333&4816.67674739&
+Bangalore&Hyderabad North&279689.0&0.0&
+Ahmednagar&Chitradurg&179490.0&0.0&
+Dharwad&Hubli, Dharwad&676.0&0.0&
+Bangalore&Chitradurg&11462.0&0.0&
+Aurangabad&Ahmednagar&104601.0&0.0&
+Hyderabad North&Aurangabad&153948.0&0.0&
+Pune&Chitradurg&48674.0&0.0&
+Chennai&Hyderabad South&130101.0&0.0&
+Chitradurg&Bangalore&81951.0&0.0&
+Pune&Thane&5638.625&14341.6208807&
+Thane&Pune&10621.375&27430.7396862&
+Bangalore&Chennai&302867.0&0.0&
+Pune&Belgaum&3666.0&0.0&
+Belgaum&Thane&4712.0&0.0&
+Pardi&Thane&301.0&291.0&
+Dharwad&Pune&182252.0&0.0&
+Hubli, Dharwad&Dharwad&842.0&0.0&
+Hyderabad North&Guntur&78945.0&0.0&
+Vadodara&Sholapur&227641.0&0.0&
+Thane&Vadodara&75213.0&0.0&
+Sholapur&Hyderabad North&99709.0&0.0&
+Thane&Vapi/Ankleshwar&28.0&0.0&
+Guntur&Vijayawada&18131.0&0.0&
+Vapi/Ankleshwar&Thane&165.0&0.0&
+Thane&Pardi&599.0&291.0&
+Hyderabad North&Kurnool&95590.0&0.0&
+Aligarh&Meerut&55679.0&0.0&
+Moradabad&Kanpur&89498.0&0.0&
+Roorkee&Moradabad&157451.0&0.0&
+Meerut&Muzaffarnagar&58054.0&0.0&
+Kurnool&Bangalore&48324.0&0.0&
+Kanpur&Hyderabad North&270869.0&0.0&
+Guntur&Vijayawada&16891.0&0.0&
+Muzaffarnagar&Roorkee&4553.0&0.0&
+Bangalore&Guntur&53870.0&0.0&
+Gulburga Gadagh belt&Hyderabad North&76740.0&0.0&
+Belgaum&Gulburga Gadagh belt&46980.4&39203.4496676&
+Gulburga Gadagh belt&Belgaum&39556.0&36966.4493629&
+Hyderabad North&Gulburga Gadagh belt&403960.0&0.0&
+Gulburga Gadagh belt&Belgaum&148297.5&223976.26079&
+Belgaum&Gulburga Gadagh belt&27256.0&37703.2037189&
+Bangalore&Chitradurg&25108.0&0.0&
+Pune&Chitradurg&161077.0&0.0&
+Guntur&Vijayawada&1571.0&0.0&
+Chitradurg&Pune&342600.0&0.0&
+Chitradurg&Guntur&524534.0&0.0&
+Chitradurg&Bangalore&70265.0&0.0&
+Bangalore&Coimbatore&9560.0&0.0&
+Coimbatore&Bangalore&88648.0&0.0&
+Bangalore&Pondicherry&368004.0&0.0&
+Bangalore&Chitradurg&79338.0&0.0&
+Pune&Vapi/Ankleshwar&186701.0&0.0&
+Chitradurg&Pune&71593.0&0.0&
+Pondicherry&Bangalore&247957.0&0.0&
+Dhule&Vadodara&112598.0&0.0&
+Vijayawada&Guntur&38940.0&0.0&
+Hyderabad North&Aurangabad&160029.0&0.0&
+Vadodara&Ahmedabad&882.0&0.0&
+Aurangabad&Dhule&83368.0&0.0&
+Pardi&Vapi/Ankleshwar&1200.0&0.0&
+Thane&Hyderabad North&429258.0&0.0&
+Guntur&Vijayawada&1980.0&0.0&
+Vapi/Ankleshwar&Thane&44065.0&14191.0&
+Thane&Pardi&7011.0&0.0&
+Guntur&Hyderabad North&316850.0&0.0&
+Ahmedabad&Vapi/Ankleshwar&66220.0&0.0&
+Pune&Hubli, Dharwad&69819.0&0.0&
+Belgaum&Nanded&64576.0&0.0&
+Hubli, Dharwad&Dharwad&986.0&0.0&
+Kolhapur&Belgaum&66069.0&0.0&
+Vijayawada&Hyderabad North&61601.0&0.0&
+Nanded&Sholapur&13865.0&0.0&
+Thane&Pune&344.6&194.494832836&
+Belgaum&Dharwad&6804.0&0.0&
+Pune&Thane&197.2&176.287719368&
+Hubli, Dharwad&Kolhapur&21364.0&0.0&
+Sholapur&Thane&77131.0&15227.0&
+Sholapur&Pune&68967.0&0.0&
+Dharwad&Hubli, Dharwad&706.0&0.0&
+Sholapur&Hyderabad North&156474.0&0.0&
+Hyderabad North&Sholapur&239544.333333&208947.434554&
+Yavatmal&Wardha&73559.0&0.0&
+Guntur&Vijayawada&47511.0&0.0&
+Sholapur&Yavatmal&15333.0&0.0&
+Dharwad&Belgaum&5471.0&0.0&
+Wardha&Hyderabad North&346026.0&0.0&
+Thane&Sholapur&232194.0&0.0&
+Sholapur&Thane&67389.0&0.0&
+Vapi/Ankleshwar&Sholapur&929087.0&0.0&
+Thane&Pune&208.666666667&100.806194695&
+Pune&Thane&170.666666667&63.4630251056&
+Sholapur&Nashik&99957.0&0.0&
+Jalna&Hyderabad North&352014.0&0.0&
+Hyderabad North&Sholapur&97252.0&0.0&
+Thane&Vapi/Ankleshwar&79389.0&0.0&
+Hyderabad North&Chennai&152830.0&0.0&
+Rajkot&Vadodara&70032.0&0.0&
+Belgaum&Thane&64595.0&0.0&
+Pardi&Thane&34.0&0.0&
+Coimbatore&Guntur&188746.0&0.0&
+Thane&Rajkot&43658.0&0.0&
+Thane&Pune&577.0&0.0&
+Chennai&Coimbatore&50276.0&0.0&
+Pune&Thane&44476.0&0.0&
+Rajkot&Chotila&3541.0&0.0&
+Chotila&Rajkot&4213.0&0.0&
+Gulburga Gadagh belt&Belgaum&45686.0&0.0&
+Chennai&Salem&67217.0&0.0&
+Vadodara&Dhule&7475.0&0.0&
+Guntur&Vijayawada&14682.0&0.0&
+Thane&Vapi/Ankleshwar&176.0&30.0&
+Aurangabad&Hyderabad North&178781.0&0.0&
+Vapi/Ankleshwar&Thane&154.0&0.0&
+Thane&Pardi&74.0&0.0&
+Dhule&Aurangabad&62844.0&0.0&
+Salem&Chennai&8579.0&0.0&
+Hyderabad South&Pune&58919.0&0.0&
+Hyderabad North&Guntur&127650.5&20929.5&
+Pune&Sholapur&5568.0&0.0&
+Hyderabad North&Hyderabad South&23700.0&0.0&
+Thane&Pune&6230.375&16118.3865813&
+Hyderabad North&Sholapur&286.666666667&28.7672653472&
+Pune&Thane&1209.25&2750.13507623&
+Hyderabad South&Sholapur&62735.0&0.0&
+Thane&Hyderabad North&152623.0&0.0&
+Guntur&Thane&475436.0&0.0&
+Sholapur&Hyderabad North&21008.0&31387.9342805&
+Hyderabad North&Thane&44843.0&0.0&
+Guntur&Vijayawada&56939.0&0.0&
+Vijayawada&Hyderabad South&254071.0&0.0&
+Hyderabad South&Hyderabad North&1080.0&0.0&
+Wazirpur&Noida&343.0&0.0&
+Wazirpur&Agra&72264.0&0.0&
+Gurgaon&Wazirpur&622.8&4437.7850108&
+Agra&Wazirpur&68907.0&0.0&
+Wazirpur&Gurgaon&208.031578947&112.497340566&
+Firozabad&Agra&8757.0&0.0&
+Wazirpur&Faridabad&213.6&20.8096131632&
+Firozabad&Wazirpur&1659.0&0.0&
+Agra&Firozabad&3640.0&0.0&
+Faridabad&Wazirpur&137.0&40.6644808156&
+Noida&Wazirpur&354.0&0.0&
+Gurgaon&Wazirpur&343.0&0.0&
+Gwalior&Agra&61046.0&0.0&
+Wazirpur&Noida&21975.0&21535.0&
+Agra&Gwalior&60966.0&0.0&
+Noida&Agra&160912.0&0.0&
+Jhansi&Hyderabad South&154318.0&0.0&
+Hyderabad South&Chennai&105966.0&0.0&
+Agra&Gurgaon&31530.0&0.0&
+Jhansi&Gwalior&12252.0&0.0&
+Noida&Wazirpur&38.0&0.0&
+Gwalior&Jhansi&15438.0&0.0&
+Warangal&Vijayawada&137577.0&0.0&
+Gurgaon&Wazirpur&114786.0&0.0&
+Noida&Ghaziabad&8847.6&17267.6041256&
+Wazirpur&Ghaziabad&1270.0&0.0&
+Wazirpur&Noida&37567.0&0.0&
+Gurgaon&Agra&151299.0&0.0&
+Ghaziabad&Wazirpur&1577.0&0.0&
+Agra&Gwalior&13460.0&0.0&
+Ghaziabad&Noida&11960.25&20316.1742262&
+Vijayawada&Guntur&1592.0&0.0&
+Jhansi&Warangal&180587.0&0.0&
+Guntur&Vijayawada&37173.0&0.0&
+Vijayawada&Agra&605300.0&0.0&
+Gwalior&Jhansi&66648.0&0.0&
+Ghaziabad&Gurgaon&73487.0&0.0&
+Vijayawada&Guntur&3569.0&0.0&
+Agra&Jhansi&86955.0&0.0&
+Agra&Gwalior&396202.0&0.0&
+Jhansi&Agra&22238.5&21230.5&
+Jhansi&Hyderabad North&589757.0&0.0&
+Warangal&Jhansi&353723.0&0.0&
+Guntur&Vijayawada&78956.0&0.0&
+Jhansi&Gwalior&145.416666667&89.3368702658&
+Jhansi&Guntur&256113.0&0.0&
+Guntur&Warangal&225994.0&0.0&
+Gwalior&Jhansi&1727.84615385&5309.81997154&
+Nashik&Vapi/Ankleshwar&86491.0&0.0&
+Sholapur&Nashik&76888.0&0.0&
+Thane&Nashik&71455.0&0.0&
+Nashik&Sholapur&707.0&0.0&
+Sholapur&Hyderabad North&177499.0&0.0&
+Thane&Vapi/Ankleshwar&7169.0&9932.82145214&
+Vapi/Ankleshwar&Thane&16278.0&27579.7056094&
+Pune&Chitradurg&46264.0&0.0&
+Chennai&Kurnool&487955.0&0.0&
+Hyderabad North&Aurangabad&71999.0&0.0&
+Chitradurg&Bangalore&84178.0&0.0&
+Aurangabad&Dhule&101485.0&0.0&
+Bangalore&Chennai&43523.0&0.0&
+Sholapur&Pune&75203.0&0.0&
+Hyderabad North&Sholapur&66938.0&0.0&
+Kurnool&Hyderabad North&93235.0&0.0&
+Pune&Chitradurg&96418.0&0.0&
+Hyderabad North&Pune&150050.0&0.0&
+Coimbatore&Guntur&252180.0&0.0&
+Chitradurg&Bangalore&72195.0&0.0&
+Vijayawada&Ahmedabad&839693.0&0.0&
+Sholapur&Hyderabad South&161411.0&0.0&
+Guntur&Vijayawada&3936.0&0.0&
+Salem&Coimbatore&75054.0&0.0&
+Bangalore&Salem&78720.0&0.0&
+Ahmedabad&Sholapur&399731.0&0.0&
+Nashik&Vapi/Ankleshwar&52108.0&33920.0&
+Hyderabad North&Bangalore&662092.0&0.0&
+Sholapur&Nashik&86687.0&0.0&
+Thane&Nashik&129879.0&0.0&
+Nashik&Sholapur&78047.0&0.0&
+Sholapur&Hyderabad North&84335.0&0.0&
+Thane&Vapi/Ankleshwar&367.0&29.0&
+Vapi/Ankleshwar&Thane&79009.0&111693.175453&
+Vapi/Ankleshwar&Nashik&21627.0&0.0&
+Vadodara&Ahmedabad&10434.0&0.0&
+Chitradurg&Bangalore&11047.0&0.0&
+Surat&Vadodara&75715.0&0.0&
+Pune&Dharwad&85361.0&0.0&
+Salem&Bangalore&21517.0&0.0&
+Ahmedabad&Hyderabad North&394669.0&0.0&
+Aurangabad&Dhule&23345.0&0.0&
+Sholapur&Pune&62506.0&0.0&
+Dharwad&Hubli, Dharwad&658.0&0.0&
+Bangalore&Salem&140924.5&8689.5&
+Hyderabad North&Sholapur&85669.0&0.0&
+Salem&Chitradurg&21230.0&0.0&
+Bangalore&Sholapur&74480.0&0.0&
+Hubli, Dharwad&Bangalore&87670.0&0.0&
+Hyderabad South&Hyderabad North&89518.0&0.0&
+Dhule&Surat&55225.0&0.0&
+Sholapur&Aurangabad&58940.0&0.0&
+Hyderabad North&Kurnool&113862.0&0.0&
+Hubli, Dharwad&Dharwad&3035.0&0.0&
+Hyderabad North&Hyderabad South&312.666666667&274.680824878&
+Bangalore&Hubli, Dharwad&663733.0&0.0&
+Hyderabad North&Sholapur&87210.0&0.0&
+Kurnool&Bangalore&78774.0&0.0&
+Sholapur&Hyderabad North&67612.0&0.0&
+Hyderabad South&Hyderabad North&913.25&730.985080217&
+Roorkee&Muzaffarnagar&11023.0&0.0&
+Gwalior&Agra&66560.0&0.0&
+Agra&Gwalior&17199.0&0.0&
+Jhansi&Agra&8265.0&0.0&
+Meerut&Jhansi&223690.0&0.0&
+Meerut&Muzaffarnagar&5426.0&0.0&
+Gwalior&Vijayawada&598974.0&0.0&
+Jhansi&Gwalior&15224.0&0.0&
+Agra&Meerut&73839.0&0.0&
+Muzaffarnagar&Roorkee&6684.0&0.0&
+Muzaffarnagar&Meerut&4109.0&0.0&
+Hyderabad North&Guntur&101221.0&0.0&
+Vijayawada&Hyderabad North&329640.0&0.0&
+Nashik&Hyderabad North&79980.0&0.0&
+Sholapur&Thane&105207.0&29359.0&
+Thane&Pune&177.555555556&166.437917095&
+Pune&Thane&159.666666667&106.05030253&
+Sholapur&Nashik&103.666666667&24.9310159351&
+Nashik&Sholapur&514.333333333&425.607278551&
+Hyderabad North&Sholapur&120347.0&26945.0&
+Thane&Vapi/Ankleshwar&1653.08474576&7835.98599961&
+Guntur&Vijayawada&1830.0&0.0&
+Vapi/Ankleshwar&Thane&135.896551724&118.523050232&
+Vapi/Ankleshwar&Nashik&60498.0&0.0&
+Hyderabad North&Chennai&217627.0&0.0&
+Morvi&Hyderabad South&674346.0&0.0&
+Chennai&Hyderabad South&48379.0&0.0&
+Thane&Pune&155.6&91.7168105275&
+Pune&Thane&2880.75&10577.0253232&
+Hyderabad North&Rajkot&690181.0&0.0&
+Rajkot&Morvi&5534.0&0.0&
+Sholapur&Pune&69678.0&0.0&
+Sholapur&Hyderabad South&58919.0&0.0&
+Hyderabad South&Hyderabad North&19621.5&17829.5&
+Thane&Sholapur&70815.0&0.0&
+Vijayawada&Gwalior&654419.0&0.0&
+Vijayawada&Guntur&5400.0&0.0&
+Gwalior&Wazirpur&64851.0&0.0&
+Wazirpur&Agra&172857.0&0.0&
+Warangal&Vijayawada&65280.0&0.0&
+Agra&Gwalior&15232.0&1312.0&
+Jhansi&Agra&58740.0&0.0&
+Jhansi&Gwalior&4920.0&0.0&
+Guntur&Vijayawada&3959.0&0.0&
+Gwalior&Warangal&237509.0&0.0&
+Gwalior&Jhansi&6842.0&0.0&
+Agra&Jhansi&237.0&0.0&
+Samalkha&Gwalior&55265.0&0.0&
+Gwalior&Ludhiana&49499.0&0.0&
+Jhansi&Agra&319.0&0.0&
+Ludhiana&Karnal&19711.25&33796.8618911&
+Ludhiana&Panipat&249.0&0.0&
+Ambala&Ludhiana&197.333333333&190.490594693&
+Warangal&Hyderabad South&959159.0&0.0&
+Panipat&Ludhiana&331.0&0.0&
+Karnal&Ludhiana&428.333333333&113.901516915&
+Samalkha&Ludhiana&493.0&300.0&
+Jhansi&Gwalior&17053.2&33627.2872792&
+Panipat&Samalkha&1334.0&0.0&
+Jhansi&Warangal&651544.0&0.0&
+Karnal&Panipat&2088.0&0.0&
+Ludhiana&Ambala&460.444444444&174.869545733&
+Gwalior&Jhansi&1526.0&2682.66829854&
+Ludhiana&Samalkha&407.0&300.0&
+Guntur&Vijayawada&2001.0&0.0&
+Warangal&Kurnool&1025047.0&0.0&
+Kurnool&Guntur&238696.0&0.0&
+Agra&Panchkula&134695.0&0.0&
+Agra&Jhansi&120.0&0.0&
+Gwalior&Agra&15722.0&0.0&
+Gwalior&Wazirpur&224520.0&0.0&
+Samalkha&Jhansi&186600.0&0.0&
+Jhansi&Agra&195.0&0.0&
+Wazirpur&Jhansi&227184.0&0.0&
+Hyderabad South&Jhansi&290186.0&0.0&
+Gwalior&Hyderabad South&401820.0&0.0&
+Jhansi&Gurgaon&590269.0&0.0&
+Panipat&Samalkha&949.0&0.0&
+Jhansi&Gwalior&29519.6666667&23012.5745385&
+Panchkula&Karnal&145230.0&0.0&
+Karnal&Panipat&4129.0&0.0&
+Sholapur&Thane&164019.0&0.0&
+Thane&Chennai&475959.0&0.0&
+Hyderabad North&Sholapur&163419.0&0.0&
+Vadodara&Thane&476540.0&0.0&
+Raipur&Dhenkanal&89194.0&0.0&
+HMC & Bally Municipal area Sevok Rd&Ahmedabad&395321.0&0.0&
+Durg, Rajnandgaon, Raipur&Durg, Raipur&1980.0&0.0&
+Cuttack&HMC & Bally Municipal area Sevok Rd&52264.0&0.0&
+Dhenkanal&Cuttack&3129.0&0.0&
+Thane&Nashik&44636.0&0.0&
+Wardha&Durg, Rajnandgaon, Raipur&65814.0&0.0&
+Durg, Raipur&Raipur&2280.0&0.0&
+Nashik&Wardha&121746.0&0.0&
+Ahmedabad&Vadodara&33435.0&0.0&
+Gulburga Gadagh belt&Hyderabad North&151217.0&0.0&
+Kurnool&Gulburga Gadagh belt&64310.0&0.0&
+Chennai&Hyderabad South&1426056.0&0.0&
+Hyderabad South&Chennai&219819.0&0.0&
+Hyderabad North&Hyderabad South&6429.0&0.0&
+Pune&Belgaum&47851.0&46231.0&
+Belgaum&Thane&53700.0&0.0&
+Dharwad&Pune&177259.0&0.0&
+Hubli, Dharwad&Dharwad&600.0&0.0&
+Rajkot&Vadodara&149494.0&0.0&
+Pune&Dharwad&84958.0&0.0&
+Vadodara&Rajkot&65164.0&0.0&
+Belgaum&Pune&943.0&0.0&
+Vadodara&Aurangabad&163696.0&0.0&
+Vapi/Ankleshwar&Pardi&2752.0&0.0&
+Dharwad&Hubli, Dharwad&660.0&0.0&
+Aurangabad&Hyderabad South&504974.0&0.0&
+Thane&Vapi/Ankleshwar&73135.0&0.0&
+Pardi&Vadodara&75103.0&0.0&
+Nashik&Vapi/Ankleshwar&99487.0&0.0&
+Rajahmundry&Bangalore&874979.0&0.0&
+Sholapur&Nashik&53836.0&0.0&
+Nashik&Sholapur&72376.0&0.0&
+Sholapur&Rajahmundry&503224.0&0.0&
+Vapi/Ankleshwar&Nashik&91020.0&0.0&
+Pune&Thane&23905.0&0.0&
+Nashik&Chitradurg&87807.0&0.0&
+Sholapur&Pune&75013.0&0.0&
+Thane&Nashik&52714.0&0.0&
+Hyderabad North&Sholapur&84021.0&0.0&
+Thane&Vapi/Ankleshwar&25331.0&0.0&
+Vapi/Ankleshwar&Thane&3622.0&0.0&
+Hyderabad South&Hyderabad North&2053.0&0.0&
+Gulburga Gadagh belt&Hyderabad North&75621.0&0.0&
+Belgaum&Gulburga Gadagh belt&69986.0&0.0&
+Hubli, Dharwad&Sholapur&59649.0&0.0&
+Pune&Sholapur&654471.0&0.0&
+Hubli, Dharwad&Dharwad&2044.0&0.0&
+Sholapur&Nashik&375914.0&0.0&
+Pune&Hyderabad North&66253.0&0.0&
+Dharwad&Hubli, Dharwad&23109.0&20346.0&
+Nashik&Sholapur&89414.0&0.0&
+Hyderabad North&Sholapur&10931.0&0.0&
+Sholapur&Pune&176141.5&167925.5&
+Sholapur&Thane&70570.0&0.0&
+Thane&Pune&2292.45&9469.40669987&
+Pune&Thane&2388.0&9446.88761445&
+Pune&Hyderabad North&64272.0&0.0&
+Hyderabad North&Thane&763473.0&0.0&
+Sholapur&Pune&5167.0&0.0&
+Thane&Sholapur&77238.0&0.0&
+Hyderabad North&Chennai&389549.0&0.0&
+Karur&Madurai&67740.0&0.0&
+Chennai&Hyderabad South&142727.0&0.0&
+Tiruchirappalli&Madurai&416.0&0.0&
+Hyderabad North&Hyderabad South&3585.0&0.0&
+Kurnool&Salem&145303.0&0.0&
+Hyderabad South&Kurnool&86761.0&0.0&
+Salem&Kurnool&65475.0&0.0&
+Madurai&Salem&168209.0&0.0&
+Madurai&Tiruchirappalli&123.0&0.0&
+Kurnool&Hyderabad North&80615.0&0.0&
+Hyderabad South&Hyderabad North&1039.0&0.0&
+Salem&Karur&8836.0&0.0&
+Pune&Chitradurg&217993.0&0.0&
+Pune&Sholapur&21593.0&0.0&
+Chitradurg&Bangalore&44059.0&0.0&
+Sholapur&Thane&825896.0&0.0&
+Salem&Chitradurg&79766.0&0.0&
+Salem&Bangalore&64204.0&0.0&
+Sholapur&Pune&17439.0&0.0&
+Bangalore&Chitradurg&102046.0&0.0&
+Bangalore&Salem&44651.0&26133.0&
+Chitradurg&Sholapur&85634.0&0.0&
+Chitradurg&Pune&187059.0&0.0&
+Nagpur&Hyderabad North&114003.0&0.0&
+Hyderabad North&Aurangabad&232449.0&0.0&
+Hyderabad North&Nagpur&408717.0&0.0&
+Hyderabad North&Hyderabad South&503.5&238.5&
+Chennai&Hyderabad North&76941.0&0.0&
+Dhule&Thane&247200.0&0.0&
+Aurangabad&Dhule&15651.0&0.0&
+Hyderabad South&Hyderabad North&43802.5&41642.5&
+Thane&Sholapur&492914.0&0.0&
+Coimbatore&Hyderabad South&694406.0&0.0&
+Nashik&Vapi/Ankleshwar&87917.0&0.0&
+Hyderabad North&Hyderabad South&19893.0&19289.0&
+Sholapur&Nashik&87504.0&0.0&
+Nashik&Sholapur&78114.0&0.0&
+Hyderabad North&Sholapur&441.0&0.0&
+Sholapur&Hyderabad South&63134.0&0.0&
+Hyderabad South&Hyderabad North&12370.75&18155.358732&
+Vapi/Ankleshwar&Nashik&76768.0&0.0&
+Vadodara&Ahmedabad&71744.0&0.0&
+Coimbatore&Kurnool&108778.0&0.0&
+Nashik&Vapi/Ankleshwar&20472.0&0.0&
+Vadodara&Pardi&78903.0&0.0&
+Warangal&Hyderabad North&280615.0&0.0&
+Vapi/Ankleshwar&Bangalore&524134.0&0.0&
+Aurangabad&Vadodara&76666.0&0.0&
+Hyderabad North&Warangal&49861.0&0.0&
+Thane&Nashik&49585.0&0.0&
+Hyderabad North&Dhule&166287.0&0.0&
+Vapi/Ankleshwar&Thane&13937.0&0.0&
+Kurnool&Hyderabad North&93388.0&0.0&
+Pardi&Vapi/Ankleshwar&1059.0&0.0&
+Dhule&Aurangabad&14096.0&0.0&
+Ahmedabad&Vadodara&77998.0&0.0&
+Hyderabad North&Nashik&70871.0&0.0&
+Indore&Burhanpur&79648.0&0.0&
+Burhanpur&Nanded&72645.0&0.0&
+Hyderabad North&Hyderabad South&10913.0&0.0&
+Dhule&Indore&74371.0&0.0&
+Dharwad&Dhule&158208.0&0.0&
+Hyderabad South&Sholapur&50515.0&0.0&
+Nashik&Vapi/Ankleshwar&13325.0&0.0&
+Hyderabad South&Guntur&58270.0&0.0&
+Guntur&Vijayawada&1923.0&0.0&
+Nanded&Hyderabad North&81458.0&0.0&
+Vijayawada&Hyderabad South&362799.0&0.0&
+Vapi/Ankleshwar&Sholapur&141788.0&0.0&
+Sholapur&Hyderabad North&38247.0&0.0&
+Bangalore&Thane&511542.0&0.0&
+Hyderabad North&Pune&66217.0&0.0&
+Chitradurg&Bangalore&141925.0&0.0&
+Thane&Pune&2327.0&0.0&
+Pune&Thane&25194.0&18767.0&
+Hyderabad South&Sholapur&267.0&0.0&
+Thane&Gulburga Gadagh belt&478440.0&0.0&
+Thane&Vapi/Ankleshwar&29591.0&0.0&
+Nashik&Chitradurg&90101.0&0.0&
+Thane&Nashik&69917.0&0.0&
+Sholapur&Hyderabad South&57.5&14.5&
+Vijayawada&Sholapur&663973.0&0.0&
+Guntur&Vijayawada&88190.0&0.0&
+Vapi/Ankleshwar&Thane&1931.0&0.0&
+Hyderabad South&Hyderabad North&3427.0&0.0&
+Hyderabad North&Nashik&67866.0&0.0&
+Nashik&Hyderabad North&141147.0&0.0&
+Nashik&Vapi/Ankleshwar&87854.0&0.0&
+Vijayawada&Hyderabad North&513938.0&0.0&
+Hyderabad North&Sholapur&216224.0&144617.0&
+Sholapur&Hyderabad North&14476.0&0.0&
+Thane&Vapi/Ankleshwar&27960.5&27531.5&
+Guntur&Vijayawada&49066.0&0.0&
+Vapi/Ankleshwar&Thane&115264.5&115162.5&
+Vapi/Ankleshwar&Nashik&17523.0&0.0&
+Chitradurg&Chennai&68711.0&0.0&
+Hubli, Dharwad&Chitradurg&70941.0&0.0&
+Hubli, Dharwad&Dharwad&800.0&101.196179111&
+Hubli, Dharwad&Bangalore&237752.0&0.0&
+Hubli, Dharwad&Chennai&137245.0&0.0&
+Bangalore&Chennai&344840.5&318723.5&
+Dharwad&Hubli, Dharwad&820.666666667&141.657646772&
+Dharwad&Chitradurg&3741.5&3081.5&
+Chennai&Hubli, Dharwad&70196.0&4958.0&
+Bangalore&Chitradurg&53733.0&0.0&
+Chennai&Bangalore&66401.5&12632.5&
+Chitradurg&Hubli, Dharwad&25081.0&0.0&
+Chitradurg&Dharwad&83976.5&76146.5&
+Vijayawada&Guntur&3230.0&0.0&
+Agra&Jhansi&672.5&280.5&
+Warangal&Gwalior&222024.0&0.0&
+Faridabad&Gwalior&130012.0&0.0&
+Warangal&Vijayawada&43370.0&0.0&
+Jhansi&Agra&114.0&0.0&
+Vijayawada&Warangal&248207.0&0.0&
+Faridabad&Noida&383.0&0.0&
+Jhansi&Wazirpur&138968.0&0.0&
+Wazirpur&Faridabad&140.25&104.219419975&
+Gwalior&Agra&20705.0&0.0&
+Jhansi&Gwalior&2146.75&5154.00860375&
+Guntur&Vijayawada&1693.0&0.0&
+Gwalior&Warangal&216728.0&0.0&
+Jhansi&Warangal&1018005.0&0.0&
+Faridabad&Wazirpur&221.5&81.5&
+Noida&Wazirpur&360.0&0.0&
+Gwalior&Jhansi&6902.33333333&13982.5890704&
+Indore&Aurangabad&54844.0&0.0&
+Dewas&Jhalawar&54.6666666667&26.3860232362&
+Sholapur&Hyderabad North&9136.0&0.0&
+Hyderabad South&Sholapur&78980.0&0.0&
+Jhalawar&Dewas&245.333333333&18.6964048832&
+Dewas&Indore&1917.0&0.0&
+Kota&Dewas&26006.0&0.0&
+Dhule&Sholapur&70098.0&0.0&
+Guntur&Vijayawada&13725.0&0.0&
+Vijayawada&Hyderabad South&342101.0&0.0&
+Sholapur&Bangalore&88326.0&0.0&
+Aurangabad&Dhule&15303.0&0.0&
+Bangalore&Guntur&50055.0&0.0&
+Ujjain&Indore&3747.0&0.0&
+Meerut&Alwar&346873.0&0.0&
+Indore&Burhanpur&158.0&53.0471488395&
+Hyderabad North&Nanded&76181.0&0.0&
+Burhanpur&Nanded&58567.0&0.0&
+Indore&Jhalawar&20814.0&0.0&
+Kota&Alwar&12659.0&0.0&
+Ujjain&Kota&49275.0&0.0&
+Alwar&Kota&36271.0&12750.0&
+Jhalawar&Ujjain&828.25&986.704711401&
+Ujjain&Jhalawar&147.0&17.9071680248&
+Kota&Meerut&421378.0&0.0&
+Kota&Ujjain&22903.0&0.0&
+Burhanpur&Indore&54942.6666667&77359.848812&
+Nanded&Burhanpur&92263.0&0.0&
+Hyderabad North&Guntur&78981.0&0.0&
+Chitradurg&Bangalore&181857.0&0.0&
+Nashik&Vapi/Ankleshwar&90565.0&0.0&
+Vijayawada&Hyderabad North&346175.0&0.0&
+Bangalore&Hyderabad North&500770.0&0.0&
+Sholapur&Nashik&82364.0&0.0&
+Nashik&Chitradurg&75167.0&0.0&
+Hyderabad North&Sholapur&79934.0&0.0&
+Hyderabad North&Thane&510623.0&0.0&
+Guntur&Vijayawada&1981.0&0.0&
+Vapi/Ankleshwar&Nashik&77611.0&0.0&
+Hyderabad North&Chennai&164086.0&0.0&
+Hyderabad North&Kurnool&13746.0&0.0&
+Chitradurg&Bangalore&160853.0&0.0&
+Sholapur&Thane&76121.0&0.0&
+Bangalore&Hyderabad North&23318.0&0.0&
+Chennai&Sholapur&312249.0&0.0&
+Kurnool&Hyderabad North&400693.0&0.0&
+Hyderabad North&Guntur&515925.0&0.0&
+Nashik&Vapi/Ankleshwar&12048.0&0.0&
+Vijayawada&Hyderabad North&151910.0&0.0&
+Sholapur&Hyderabad North&175862.0&0.0&
+Pune&Nashik&415913.0&0.0&
+Sholapur&Pune&74476.0&0.0&
+Hyderabad North&Sholapur&189914.0&0.0&
+Guntur&Vijayawada&5609.0&0.0&
+Vapi/Ankleshwar&Hyderabad South&829010.0&0.0&
+Pune&Chitradurg&79525.0&0.0&
+Salem&Bangalore&19884.0&0.0&
+Pune&Thane&168.4&152.858889176&
+Thane&Vapi/Ankleshwar&55857.0&0.0&
+Bangalore&Chitradurg&85982.0&0.0&
+Chitradurg&Thane&144793.0&0.0&
+Bangalore&Salem&84793.0&0.0&
+Thane&Pune&286.0&130.899961803&
+Chitradurg&Pune&157199.0&0.0&
+Pune&Chitradurg&221856.0&0.0&
+Vijayawada&Nashik&425836.0&0.0&
+Chitradurg&Bangalore&16619.0&0.0&
+Belgaum&Pune&54446.0&0.0&
+Nashik&Thane&220819.0&0.0&
+Gulburga Gadagh belt&Belgaum&100177.0&0.0&
+Guntur&Vijayawada&1443.0&0.0&
+Hyderabad North&Gulburga Gadagh belt&69622.0&0.0&
+Bangalore&Guntur&272618.0&0.0&
+Vijayawada&Guntur&1740.0&0.0&
+Hyderabad North&Guntur&71393.0&0.0&
+Guntur&Salem&166872.0&0.0&
+Salem&Nagpur&1426390.0&0.0&
+Guntur&Vijayawada&1679.0&0.0&
+Sholapur&Hyderabad North&267979.0&0.0&
+Hyderabad North&Thane&237968.0&0.0&
+Thane&Kottayam&481119.0&0.0&
+Chennai&Hyderabad North&1465929.0&0.0&
+Hyderabad North&Guntur&448327.0&0.0&
+Hyderabad North&Pune&132793.0&0.0&
+Thane&Pune&175.0&28.0&
+Pune&Thane&187.666666667&35.8267435801&
+Hyderabad South&Sholapur&344509.0&0.0&
+Guntur&Thane&586429.0&0.0&
+Thane&Nashik&74240.0&0.0&
+Nashik&Sholapur&78823.0&0.0&
+Sholapur&Hyderabad North&41881.5&39302.5&

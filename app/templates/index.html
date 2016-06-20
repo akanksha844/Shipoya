@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Data Table</title>
+    
+    
+    
+    
+        <link rel="stylesheet" href="{{url_for('static' , filename = 'style.css')}}">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Table Style</title>
+	<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+</head>
+
+<body>
+  <div class="table-title">
+  <h3>Data Table</h3>
+  </div>
+  <table class="table-fill">
+    <thead>
+      <tr>
+      <th class="text-left"> Source </th>
+      <th class="text-left"> Destination </th>
+      <th class="text-left"> Mean Time </th>
+      <th class="text-left"> Overall Mean Time </th>
+      </tr>
+    </thead>
+    <tbody class="table-hover">
+      {% for item in jin %}
+      <tr>
+        <td class="text-left"> {{item[0]}} </td>
+        <td class="text-left"> {{item[1]}} </td>
+        <td class="text-left"> {{item[2]}} </td>
+        <td class="text-left"> {{item[3]}} </td>
+
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+    
+
+  </body>
+    
+    
+    
+    
+    
+  </body>
+</html>
